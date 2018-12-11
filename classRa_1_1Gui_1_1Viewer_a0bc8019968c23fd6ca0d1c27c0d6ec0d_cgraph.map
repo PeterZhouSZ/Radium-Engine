@@ -1,0 +1,17 @@
+<map id="Ra::Gui::Viewer::startRendering" name="Ra::Gui::Viewer::startRendering">
+<area shape="rect" id="node2" href="$classRa_1_1Gui_1_1PickingManager.html#a0e09b5c72c23cfc60f0c1d2f0d00a809" title="Ra::Gui::PickingManager\l::clear" alt="" coords="272,14,447,55"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1Renderer.html#aae06e80b86860b118f7d4a8970fa883f" title="Tell if the renderer has an usable light. " alt="" coords="282,110,437,151"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1Renderer.html#ad8e27588477d7e65666598cdfd1d4fbb" title="Add a light to the renderer. " alt="" coords="282,175,437,217"/>
+<area shape="rect" id="node7" href="$classRa_1_1Engine_1_1Renderer.html#affc431edcc808c4bd5ca80bfe03a2c55" title="Tell the renderer it needs to render. " alt="" coords="282,302,437,343"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Index.html#a16f988512f9ef442cc97b6bc4809ba45" title="Ra::Core::Index::Invalid" alt="" coords="533,5,699,32"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Index.html#af6afe563ad57a4ab82f3706987e684ef" title="CONSTRUCTOR Default constructor that allow implicit conversion from integer to Index. " alt="" coords="785,5,945,32"/>
+<area shape="rect" id="node8" href="$classRa_1_1Engine_1_1Renderer.html#a54631e8470c2638009457f53628dac57" title="Update the renderer dependent resources for the next frame. " alt="" coords="539,57,693,98"/>
+<area shape="rect" id="node9" href="$classRa_1_1Engine_1_1Renderer.html#a0991bff12be739a189f5a173458b6623" title="All the scene rendering magics basically happens here. " alt="" coords="539,122,693,163"/>
+<area shape="rect" id="node10" href="$classRa_1_1Engine_1_1Renderer.html#a75b434244e669f4be43889a820011b79" title="Do all post processing stuff. " alt="" coords="538,187,694,229"/>
+<area shape="rect" id="node11" href="$classRa_1_1Engine_1_1Renderer.html#a4bf7ab27df3a206bcb0b759f28dab716" title="Add the debug layer with useful informations. " alt="" coords="539,253,693,294"/>
+<area shape="rect" id="node12" href="$classRa_1_1Engine_1_1Renderer.html#a02f80a1fa78786ad58d68393225aed64" title="Draw the UI data. " alt="" coords="539,318,693,359"/>
+<area shape="rect" id="node13" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a3375e7e622402ff6781497c3b0610128" title="Get all render objects of the given type, the vector is assumed to be empty whan called. " alt="" coords="495,383,737,425"/>
+<area shape="rect" id="node14" href="$namespaceOpenMesh.html#a8205f789ce08919bc11c58383574596c" title="OpenMesh::norm" alt="" coords="550,449,682,476"/>
+<area shape="rect" id="node15" href="$classRa_1_1Engine_1_1ShaderProgramManager.html#a5ddf7b2a65b82380204c6bb5da2127d2" title="Get the shader programm corresponding to the given id. " alt="" coords="512,501,720,542"/>
+<area shape="rect" id="node16" href="$classRa_1_1Engine_1_1ShaderProgram.html#a63faeab38c95dbcb4514a94c1e785890" title="Ra::Engine::ShaderProgram\l::bind" alt="" coords="517,566,715,607"/>
+</map>

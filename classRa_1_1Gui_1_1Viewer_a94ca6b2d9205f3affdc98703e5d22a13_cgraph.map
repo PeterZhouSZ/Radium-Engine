@@ -1,0 +1,7 @@
+<map id="Ra::Gui::Viewer::changeRenderer" name="Ra::Gui::Viewer::changeRenderer">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Renderer.html#a3166160850c466595fe48a74116bc116" title="Lock rendering. " alt="" coords="283,5,437,47"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Renderer.html#a7343dbeb04c9699cc2abf2690c9941ee" title="Resize the viewport and all the screen textures, fbos. " alt="" coords="283,71,437,112"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1Renderer.html#aa1773ee0f741df643e10d21d968fbcc3" title="Unlock the rendering. " alt="" coords="283,136,437,177"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1Renderer.html#a56fec7b4244e68e76d80ce48cacb61eb" title="Get the name of the renderer, e.g to be displayed in the UI. " alt="" coords="283,201,437,243"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Renderer.html#a18a293f1c7c6864e4f1de7f6b88b0f4a" title="resize the renderer dependent resources " alt="" coords="485,71,640,112"/>
+</map>

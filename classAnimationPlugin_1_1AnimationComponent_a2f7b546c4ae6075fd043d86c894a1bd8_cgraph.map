@@ -1,0 +1,15 @@
+<map id="AnimationPlugin::AnimationComponent::setTransform" name="AnimationPlugin::AnimationComponent::setTransform">
+<area shape="rect" id="node2" href="$classAnimationPlugin_1_1AnimationComponent.html#a59f4f330b3eb7c10844883ad1e8be77c" title="Returns true if a transform can be edited with the render object index given as a key..." alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#aecd2137452897bd64ba998e255dd3751" title="Ra::Core::Animation\l::Skeleton::getTransform" alt="" coords="262,188,441,229"/>
+<area shape="rect" id="node13" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a2422e1bb4c3016f4b07f03696e6a8383" title="Get the i&#45;th bone endpoints. " alt="" coords="499,17,685,59"/>
+<area shape="rect" id="node14" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a54bd8f8d55c878fa0e49c0f1c971f7aa" title="Set the i&#45;th transform to T, which is given in the MODE space. " alt="" coords="263,123,440,164"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a5679e1beb544b515c4539ce48a2f2ba3" title="Ra::Core::Animation\l::Skeleton::size" alt="" coords="517,188,667,229"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Animation.html#a93d6305ed74ab59961969dce601714c2" title="Ra::Core::Animation\l::operator\&lt;\&lt;" alt="" coords="733,188,883,229"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1Animation_1_1Handle.html#af2c003e7a85469470d5591b019e8ab80" title="Ra::Core::Animation\l::Handle::getLabel" alt="" coords="954,320,1103,361"/>
+<area shape="rect" id="node8" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a8671f51516bd82a2ea4246bc0c1e34f1" title="Ra::Core::Graph::Adjacency\lList::isRoot" alt="" coords="931,124,1127,165"/>
+<area shape="rect" id="node10" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a5ef43669e94471df3df312cb9b49d00b" title="Ra::Core::Graph::Adjacency\lList::isJoint" alt="" coords="931,255,1127,296"/>
+<area shape="rect" id="node11" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a2812c8dd044a6595416cb05baf928777" title="Ra::Core::Graph::Adjacency\lList::isBranch" alt="" coords="931,189,1127,231"/>
+<area shape="rect" id="node12" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a209e8c037a722c617b3feebdbb85c044" title="Ra::Core::Graph::Adjacency\lList::isLeaf" alt="" coords="931,59,1127,100"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1Animation_1_1Handle.html#aba876355658e5f8953033d3bb8f18533" title="Ra::Core::Animation\l::Handle::size" alt="" coords="1198,320,1347,361"/>
+<area shape="rect" id="node9" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a63e089f5da2ddc2da39dfd5bd6adb410" title="SIZE. " alt="" coords="1175,157,1371,199"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/Plugins/MeshPaint/src/MeshPaintPlugin.hpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/Plugins/MeshPaint/src/MeshPaintPlugin.hpp">
+<area shape="rect" id="node2" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="257,587,417,613"/>
+<area shape="rect" id="node8" href="$RadiumPluginInterface_8hpp.html" title="PluginBase/RadiumPluginInterface.hpp" alt="" coords="220,124,487,151"/>
+<area shape="rect" id="node15" href="$MeshPaintUI_8h.html" title="UI/MeshPaintUI.h" alt="" coords="511,124,641,151"/>
+<area shape="rect" id="node38" href="$MeshPaintPluginMacros_8hpp.html" title="MeshPaintPluginMacros.hpp" alt="" coords="42,273,241,300"/>
+<area shape="rect" id="node17" href="$PickingManager_8hpp.html" title="GuiBase/Utils/PickingManager.hpp" alt="" coords="418,199,657,225"/>
+<area shape="rect" id="node18" href="$RaGuiBase_8hpp.html" title="GuiBase/RaGuiBase.hpp" alt="" coords="1217,273,1393,300"/>
+<area shape="rect" id="node19" href="$Renderer_8hpp.html" title="Engine/Renderer/Renderer.hpp" alt="" coords="487,273,702,300"/>
+<area shape="rect" id="node20" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="259,512,415,539"/>
+<area shape="rect" id="node24" href="$EventEnums_8hpp.html" title="Core/Event/EventEnums.hpp" alt="" coords="375,348,579,375"/>
+<area shape="rect" id="node26" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="921,348,1129,375"/>
+<area shape="rect" id="node37" href="$Timer_8hpp.html" title="Core/Time/Timer.hpp" alt="" coords="604,348,759,375"/>
+<area shape="rect" id="node25" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="463,512,593,539"/>
+<area shape="rect" id="node32" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="1651,430,1803,457"/>
+<area shape="rect" id="node36" href="$LinearAlgebra_8inl.html" title="Core/Math/LinearAlgebra.inl" alt="" coords="1427,430,1626,457"/>
+<area shape="rect" id="node35" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="1657,512,1799,539"/>
+</map>

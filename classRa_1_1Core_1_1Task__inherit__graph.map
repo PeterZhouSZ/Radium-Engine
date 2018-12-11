@@ -1,0 +1,5 @@
+<map id="Ra::Core::Task" name="Ra::Core::Task">
+<area shape="rect" id="node2" href="$classDummyPlugin_1_1DummyOtherTask.html" title="{DummyPlugin::DummyOtherTask\n||+ getName()\l+ init()\l+ process()\l}" alt="" coords="5,167,239,274"/>
+<area shape="rect" id="node3" href="$classDummyPlugin_1_1DummyTask.html" title="{DummyPlugin::DummyTask\n||+ getName()\l+ init()\l+ process()\l}" alt="" coords="263,167,461,274"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1FunctionTask.html" title="A wrapper for a task around a std::function, which must be of type void(void) The process() method wi..." alt="" coords="485,160,649,281"/>
+</map>

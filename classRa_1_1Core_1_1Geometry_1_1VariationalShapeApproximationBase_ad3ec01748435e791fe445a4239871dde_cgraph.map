@@ -1,0 +1,8 @@
+<map id="Ra::Core::Geometry::VariationalShapeApproximationBase::exec" name="Ra::Core::Geometry::VariationalShapeApproximationBase::exec">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1Geometry_1_1VariationalShapeApproximationBase.html#a221dd3aa360f1bc9a205588a25534bd1" title="Return true if init() was called. False otherwise. " alt="" coords="284,5,515,61"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Geometry_1_1VariationalShapeApproximationBase.html#a4aa7e2d572201e08266880dbbf7dbd85" title="Performs the Proxy fitting. " alt="" coords="284,85,515,141"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Geometry_1_1VariationalShapeApproximationBase.html#a2587ab7817f09e4c1dc79d08c9a36ce4" title="Performs the geometry partitioning with the current proxies. " alt="" coords="284,165,515,221"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="599,129,757,156"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1Geometry_1_1VariationalShapeApproximationBase.html#a3c71d31a3c51e485574a9a3d76f39458" title="Computes the energy function for the given triangle and the given Proxy. " alt="" coords="841,199,1072,255"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1Geometry_1_1VariationalShapeApproximationBase.html#a1c461b56ce2749533d2fbacb2ae60fa6" title="Add the neighbors of T to the priority queue. " alt="" coords="563,231,793,287"/>
+</map>

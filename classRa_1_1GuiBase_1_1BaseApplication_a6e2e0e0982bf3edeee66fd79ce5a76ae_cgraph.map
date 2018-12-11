@@ -1,0 +1,17 @@
+<map id="Ra::GuiBase::BaseApplication::loadPlugins" name="Ra::GuiBase::BaseApplication::loadPlugins">
+<area shape="rect" id="node2" href="$classRa_1_1Gui_1_1Viewer.html#a17094c0201376a4beedb86fa39cf3fa2" title="Access to the feature picking manager. " alt="" coords="289,37,479,79"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1StringUtils.html#a30480ab8fa5ba3ac2824bf91bcddf7bf" title="Ra::Core::StringUtils\l::getFileExt" alt="" coords="309,103,459,144"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1StringUtils.html#a385372757aef49b430a523e860df4def" title="Ra::Core::StringUtils\l::getBaseName" alt="" coords="309,168,459,209"/>
+<area shape="rect" id="node7" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html#a89c442801ecfa6197ebf76b8b99d4249" title="Pass arguments for plugin initialization. " alt="" coords="291,233,477,275"/>
+<area shape="rect" id="node8" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html#ad6ba57281f8237263a2c5e1b718a4689" title="Tells if the plugin will add a renderer. " alt="" coords="291,299,477,340"/>
+<area shape="rect" id="node9" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html#aec0c0d52ce2a10e31dfce32b9b1766ee" title="addRenderers " alt="" coords="291,364,477,405"/>
+<area shape="rect" id="node10" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html#acc10a0721a8fe34cc7e7735250b495c1" title="Tells if the system will add a file loader. " alt="" coords="289,429,479,471"/>
+<area shape="rect" id="node11" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html#a15f994fc16dcc1c4802af78b9d0aee07" title="Add the file loader services offered by the plugin. " alt="" coords="291,495,477,536"/>
+<area shape="rect" id="node12" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html#a6feecf052a9c12e6f85b07e3eaaf0a9a" title="Tells if the plugin offer OpenGL based services that need to be initialized after the OpenGL context ..." alt="" coords="263,560,505,601"/>
+<area shape="rect" id="node13" href="$classRa_1_1Gui_1_1Viewer.html#a74b52eef775a13bed0ada0c261dcc397" title="Ra::Gui::Viewer::isOpenGl\lInitialized" alt="" coords="293,625,475,667"/>
+<area shape="rect" id="node14" href="$classRa_1_1Gui_1_1Viewer.html#a19d9e6da9d196e77f7d4bf8fee5ad227" title="Make the OpenGL context associated with the viewer the current context. " alt="" coords="279,691,489,718"/>
+<area shape="rect" id="node15" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html#a2519ee59a10501de906398a08a57b6e2" title="openGlInitialize " alt="" coords="291,743,477,784"/>
+<area shape="rect" id="node16" href="$classRa_1_1Gui_1_1Viewer.html#aaf6cf957403cdcbfa8f4dfd0c25c8e74" title="Reset the current OpenGL context that is no more the one associated with the viewer. " alt="" coords="281,809,487,835"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Renderer.html#a3166160850c466595fe48a74116bc116" title="Lock rendering. " alt="" coords="553,5,708,47"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Renderer.html#aa1773ee0f741df643e10d21d968fbcc3" title="Unlock the rendering. " alt="" coords="553,71,708,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Ra::Core::AttribBase::cast" name="Ra::Core::AttribBase::cast">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1AttribBase.html#ae9c3a5a96975efad517bdd925ecc2643" title="Ra::Core::AttribBase\l::isFloat" alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1AttribBase.html#aa131148ae28c78c5d88a96a97a0e87b5" title="Ra::Core::AttribBase\l::isVec2" alt="" coords="204,71,355,112"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1AttribBase.html#a1c1b7b6f20e66ee286ce26ca2cfde9fd" title="Ra::Core::AttribBase\l::isVec3" alt="" coords="204,136,355,177"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1AttribBase.html#a4a6445a547517d1df00f25c9d3bbe7e0" title="Ra::Core::AttribBase\l::isVec4" alt="" coords="204,201,355,243"/>
+</map>

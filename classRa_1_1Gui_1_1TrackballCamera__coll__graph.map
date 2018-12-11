@@ -1,0 +1,16 @@
+<map id="Ra::Gui::TrackballCamera" name="Ra::Gui::TrackballCamera">
+<area shape="rect" id="node2" href="$classRa_1_1Gui_1_1CameraInterface.html" title="The CameraInterface class is the generic class for camera manipulators. " alt="" coords="728,3196,981,3772"/>
+<area shape="rect" id="node3" href="$classQObject.html" title="{QObject\n||}" alt="" coords="1051,2667,1125,2745"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Light.html" title="Light base classe for rendering. " alt="" coords="620,2601,807,2811"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1Component.html" title="A component is an element that can be updated by a system. " alt="" coords="583,1919,798,2216"/>
+<area shape="rect" id="node20" href="$classRa_1_1Engine_1_1Camera.html" title="A Camera is an Engine Component storing a Camera object. " alt="" coords="225,2367,393,3045"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1Index.html" title="{Ra::Core::Index\n||+ Index()\l+ Index()\l+ isValid()\l+ isInvalid()\l+ setInvalid()\l+ getValue()\l+ setValue()\l+ operator int()\l+ operator=()\l+ operator++()\l+ operator&#45;&#45;()\l+ operator+()\l+ operator+()\l+ operator&#45;()\l+ operator&#45;()\l+ operator==()\l+ operator==()\l+ operator!=()\l+ operator!=()\l+ operator\&lt;()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;()\l+ operator\&gt;=()\l+ operator\&gt;=()\l+ Invalid()\l+ Max()\l}" alt="" coords="581,145,705,633"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="775,351,902,428"/>
+<area shape="rect" id="node11" href="$classRa_1_1Engine_1_1System.html" title="Systems are responsible of updating a specific subset of the components of each entity. " alt="" coords="841,968,1050,1148"/>
+<area shape="rect" id="node14" href="$classRa_1_1Engine_1_1Entity.html" title="An entity is an scene element. It ties together components with a transform. " alt="" coords="277,895,464,1221"/>
+<area shape="rect" id="node15" href="$classRa_1_1Core_1_1IndexedObject.html" title="{Ra::Core::IndexedObject\n||+ IndexedObject()\l+ IndexedObject()\l+ ~IndexedObject()\l}" alt="" coords="197,725,371,832"/>
+<area shape="rect" id="node21" href="$classRa_1_1Engine_1_1RenderObject.html" title="{Ra::Engine::RenderObject\n||+ RenderObject()\l+ ~RenderObject()\l+ updateGL()\l+ getName()\l+ getComponent()\l+ getComponent()\l+ getType()\l+ setType()\l+ setVisible()\l+ toggleVisible()\l+ isVisible()\l+ setPickable()\l+ togglePickable()\l+ isPickable()\l+ setXRay()\l+ toggleXRay()\l+ isXRay()\l+ setTransparent()\l+ toggleTransparent()\l+ isTransparent()\l+ isDirty()\l+ setRenderTechnique()\l+ getRenderTechnique()\l+ getRenderTechnique()\l+ setMesh()\l+ getMesh()\l+ getMesh()\l+ getTransform()\l+ getTransformAsMatrix()\l+ getAabb()\l+ getMeshAabb()\l+ setLocalTransform()\l+ setLocalTransform()\l+ getLocalTransform()\l+ getLocalTransformAsMatrix()\l+ hasBeenRenderedOnce()\l+ hasExpired()\l+ render()\l+ render()\l+ createRenderObject()\l}" alt="" coords="55,1245,273,1895"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="502,1019,589,1097"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="463,733,601,825"/>
+<area shape="rect" id="node25" href="$classbool.html" title="{bool\n||}" alt="" coords="1151,2667,1201,2745"/>
+</map>

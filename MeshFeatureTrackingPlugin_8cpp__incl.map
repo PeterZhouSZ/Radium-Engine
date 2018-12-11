@@ -1,0 +1,28 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/Plugins/MeshFeatureTracking/src/MeshFeatureTrackingPlugin.cpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/Plugins/MeshFeatureTracking/src/MeshFeatureTrackingPlugin.cpp">
+<area shape="rect" id="node2" href="$MeshFeatureTrackingPlugin_8hpp.html" title="MeshFeatureTrackingPlugin.hpp" alt="" coords="2012,124,2233,151"/>
+<area shape="rect" id="node15" href="$MeshFeatureTrackingUI_8h.html" title="UI/MeshFeatureTrackingUI.h" alt="" coords="1560,206,1757,233"/>
+<area shape="rect" id="node17" href="$PickingManager_8hpp.html" title="GuiBase/Utils/PickingManager.hpp" alt="" coords="1675,295,1914,322"/>
+<area shape="rect" id="node32" href="$Entity_8hpp.html" title="Engine/Entity/Entity.hpp" alt="" coords="309,295,480,322"/>
+<area shape="rect" id="node38" href="$EntityManager_8hpp.html" title="Engine/Managers/EntityManager\l/EntityManager.hpp" alt="" coords="1945,377,2173,419"/>
+<area shape="rect" id="node42" href="$SignalManager_8hpp.html" title="Engine/Managers/SignalManager\l/SignalManager.hpp" alt="" coords="505,288,735,329"/>
+<area shape="rect" id="node44" href="$RadiumEngine_8hpp.html" title="Engine/RadiumEngine.hpp" alt="" coords="1733,385,1921,411"/>
+<area shape="rect" id="node45" href="$SelectionManager_8hpp.html" title="GuiBase/SelectionManager\l/SelectionManager.hpp" alt="" coords="1264,199,1459,240"/>
+<area shape="rect" id="node48" href="$MeshFeatureTrackingComponent_8hpp.html" title="MeshFeatureTrackingComponent.hpp" alt="" coords="1605,124,1864,151"/>
+<area shape="rect" id="node3" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="2024,631,2184,657"/>
+<area shape="rect" id="node9" href="$RadiumPluginInterface_8hpp.html" title="PluginBase/RadiumPluginInterface.hpp" alt="" coords="1989,206,2256,233"/>
+<area shape="rect" id="node29" href="$MeshFeatureTrackingPluginMacros_8hpp.html" title="MeshFeatureTrackingPlugin\lMacros.hpp" alt="" coords="2281,199,2474,240"/>
+<area shape="rect" id="node18" href="$RaGuiBase_8hpp.html" title="GuiBase/RaGuiBase.hpp" alt="" coords="2197,385,2373,411"/>
+<area shape="rect" id="node19" href="$Renderer_8hpp.html" title="Engine/Renderer/Renderer.hpp" alt="" coords="1290,385,1505,411"/>
+<area shape="rect" id="node20" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="1515,467,1671,493"/>
+<area shape="rect" id="node22" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="536,467,744,493"/>
+<area shape="rect" id="node23" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="1019,549,1149,575"/>
+<area shape="rect" id="node34" href="$IndexedObject_8hpp.html" title="Core/Index/IndexedObject.hpp" alt="" coords="648,385,861,411"/>
+<area shape="rect" id="node36" href="$Ray_8hpp.html" title="Core/Math/Ray.hpp" alt="" coords="432,385,573,411"/>
+<area shape="rect" id="node37" href="$Entity_8inl.html" title="Engine/Entity/Entity.inl" alt="" coords="145,385,306,411"/>
+<area shape="rect" id="node35" href="$Index_8hpp.html" title="Core/Index/Index.hpp" alt="" coords="1174,549,1330,575"/>
+<area shape="rect" id="node40" href="$IndexMap_8hpp.html" title="Core/Index/IndexMap.hpp" alt="" coords="2071,467,2254,493"/>
+<area shape="rect" id="node41" href="$Singleton_8hpp.html" title="Core/Utils/Singleton.hpp" alt="" coords="1796,467,1972,493"/>
+<area shape="rect" id="node43" href="$ItemEntry_8hpp.html" title="Engine/ItemModel/ItemEntry.hpp" alt="" coords="1038,385,1266,411"/>
+<area shape="rect" id="node46" href="$EntityTreeModel_8hpp.html" title="GuiBase/TreeModel/Entity\lTreeModel.hpp" alt="" coords="1270,288,1453,329"/>
+<area shape="rect" id="node49" href="$Component_8hpp.html" title="Engine/Component/Component.hpp" alt="" coords="760,295,1011,322"/>
+</map>

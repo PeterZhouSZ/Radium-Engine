@@ -1,0 +1,15 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/Plugins/CameraManip/src/UI/CameraManipUI.cpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/Plugins/CameraManip/src/UI/CameraManipUI.cpp">
+<area shape="rect" id="node2" href="$CameraManipUI_8h.html" title="CameraManipUI.h" alt="" coords="765,124,901,151"/>
+<area shape="rect" id="node4" href="$PickingManager_8hpp.html" title="GuiBase/Utils/PickingManager.hpp" alt="" coords="804,199,1043,225"/>
+<area shape="rect" id="node5" href="$RaGuiBase_8hpp.html" title="GuiBase/RaGuiBase.hpp" alt="" coords="461,273,637,300"/>
+<area shape="rect" id="node12" href="$Renderer_8hpp.html" title="Engine/Renderer/Renderer.hpp" alt="" coords="1189,273,1404,300"/>
+<area shape="rect" id="node6" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="1046,587,1206,613"/>
+<area shape="rect" id="node13" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="1437,512,1593,539"/>
+<area shape="rect" id="node19" href="$EventEnums_8hpp.html" title="Core/Event/EventEnums.hpp" alt="" coords="829,348,1033,375"/>
+<area shape="rect" id="node21" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="583,348,791,375"/>
+<area shape="rect" id="node32" href="$Timer_8hpp.html" title="Core/Time/Timer.hpp" alt="" coords="1058,348,1213,375"/>
+<area shape="rect" id="node20" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="1061,512,1191,539"/>
+<area shape="rect" id="node27" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="26,430,178,457"/>
+<area shape="rect" id="node31" href="$LinearAlgebra_8inl.html" title="Core/Math/LinearAlgebra.inl" alt="" coords="808,430,1007,457"/>
+<area shape="rect" id="node30" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="28,512,171,539"/>
+</map>

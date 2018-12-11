@@ -1,0 +1,5 @@
+<map id="Ra::Gui::Viewer::processPicking" name="Ra::Gui::Viewer::processPicking">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Renderer.html#a08c269858a2f3603f7417ba6ed649bde" title="Get the vector of picking queries. " alt="" coords="238,5,393,47"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Renderer.html#a0508dbc35d4ab5ff766a209925fca359" title="Get the vector of picking results. " alt="" coords="238,71,393,112"/>
+<area shape="rect" id="node4" href="$classRa_1_1Gui_1_1PickingManager.html#acc32a270073f0496c3f96f880521b07e" title="Ra::Gui::PickingManager\l::setCurrent" alt="" coords="228,136,403,177"/>
+</map>

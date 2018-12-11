@@ -1,0 +1,5 @@
+<map id="Ra::Gui::Gizmo" name="Ra::Gui::Gizmo">
+<area shape="rect" id="node2" href="$classRa_1_1Gui_1_1RotateGizmo.html" title="A RotateGizmo manipulates the rotational part of a transformation. " alt="" coords="5,307,163,443"/>
+<area shape="rect" id="node3" href="$classRa_1_1Gui_1_1ScaleGizmo.html" title="A ScaleGizmo manipulates the scaling part of a transformation. " alt="" coords="187,307,341,443"/>
+<area shape="rect" id="node4" href="$classRa_1_1Gui_1_1TranslateGizmo.html" title="A TranslateGizmo manipulates the translational part of a transformation. " alt="" coords="365,307,539,443"/>
+</map>

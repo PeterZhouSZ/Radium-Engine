@@ -1,0 +1,19 @@
+<map id="AnimationPlugin::AnimationSystem::generateTasks" name="AnimationPlugin::AnimationSystem::generateTasks">
+<area shape="rect" id="node2" href="$classAnimationPlugin_1_1AnimationComponent.html#ac6cde244dc1afc3eed570c0ef678de2b" title="Update the skeleton with an animation. " alt="" coords="252,199,451,240"/>
+<area shape="rect" id="node17" href="$classRa_1_1Core_1_1TaskQueue.html#a9dfa226458ca9f60b19d54277583977a" title="Registers a task to be executed. " alt="" coords="275,315,428,356"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a7aec08b57bfa9dbce1c5b47e96de81d9" title="Set the current pose. " alt="" coords="513,308,663,350"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a5679e1beb544b515c4539ce48a2f2ba3" title="Ra::Core::Animation\l::Skeleton::size" alt="" coords="726,258,875,299"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1Animation_1_1Handle.html#af2c003e7a85469470d5591b019e8ab80" title="Ra::Core::Animation\l::Handle::getLabel" alt="" coords="1146,39,1295,80"/>
+<area shape="rect" id="node12" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a209e8c037a722c617b3feebdbb85c044" title="Ra::Core::Graph::Adjacency\lList::isLeaf" alt="" coords="1123,127,1319,168"/>
+<area shape="rect" id="node13" href="$namespaceRa_1_1Core_1_1StringUtils.html#ab6eb094c0e7eb190a6e4de2a62be6193" title="Appends a formatted print to the given string. " alt="" coords="513,75,663,116"/>
+<area shape="rect" id="node16" href="$classRa_1_1Engine_1_1Component.html#a10b0bc182b76165744ebea603ae32dfe" title="Shortcut to access the render object manager. " alt="" coords="502,140,674,182"/>
+<area shape="rect" id="node8" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a8671f51516bd82a2ea4246bc0c1e34f1" title="Ra::Core::Graph::Adjacency\lList::isRoot" alt="" coords="1123,323,1319,364"/>
+<area shape="rect" id="node9" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a63e089f5da2ddc2da39dfd5bd6adb410" title="SIZE. " alt="" coords="1367,258,1563,299"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Animation.html#a93d6305ed74ab59961969dce601714c2" title="Ra::Core::Animation\l::operator\&lt;\&lt;" alt="" coords="925,258,1074,299"/>
+<area shape="rect" id="node10" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a5ef43669e94471df3df312cb9b49d00b" title="Ra::Core::Graph::Adjacency\lList::isJoint" alt="" coords="1123,192,1319,234"/>
+<area shape="rect" id="node11" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a2812c8dd044a6595416cb05baf928777" title="Ra::Core::Graph::Adjacency\lList::isBranch" alt="" coords="1123,258,1319,299"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1Animation_1_1Handle.html#aba876355658e5f8953033d3bb8f18533" title="Ra::Core::Animation\l::Handle::size" alt="" coords="1390,39,1539,80"/>
+<area shape="rect" id="node14" href="$namespaceRa_1_1Core_1_1StringUtils.html#aca6b4e1710b2d0938442f143d9be99b9" title="Ra::Core::StringUtils\l::appendvPrintf" alt="" coords="725,75,876,116"/>
+<area shape="rect" id="node15" href="$namespaceRa_1_1Core_1_1StringUtils.html#ac348328b878bb8f1b1c1a3335ea20c4b" title="Ra::Core::StringUtils\l::stringvPrintf" alt="" coords="924,75,1075,116"/>
+<area shape="rect" id="node18" href="$classRa_1_1Core_1_1Task.html#a6c1ba13f4d8a2965f8b0b371c83efb69" title="Return the name of the task. " alt="" coords="499,374,677,401"/>
+</map>

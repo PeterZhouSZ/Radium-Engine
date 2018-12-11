@@ -1,0 +1,12 @@
+<map id="Ra::Gui::TrackballCamera::TrackballCamera" name="Ra::Gui::TrackballCamera::TrackballCamera">
+<area shape="rect" id="node2" href="$classRa_1_1Gui_1_1TrackballCamera.html#a8cdf6e1b74fdca2d9d6089b253a0ed29" title="Ra::Gui::TrackballCamera\l::resetCamera" alt="" coords="233,180,413,221"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Camera.html#afb2eb1eaed43dfbad89a89f90c067b4e" title="Set the frame of the camera to &#39;frame&#39;. " alt="" coords="461,5,609,47"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Camera.html#ab8f9fdfba7355b4589c4d9cb39f0b527" title="Set the position of the camera to &#39;position&#39;. " alt="" coords="461,71,609,112"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1Camera.html#a724a052e94817af7e602129467c8696f" title="Return the position. " alt="" coords="903,133,1051,175"/>
+<area shape="rect" id="node8" href="$classRa_1_1Gui_1_1TrackballCamera.html#a1f4216d79cee852ec5653a1a11fe4155" title="Update the polar coordinates of the Camera w.r.t. the trackball center. " alt="" coords="657,188,837,229"/>
+<area shape="rect" id="node9" href="$classRa_1_1Engine_1_1Light.html#a38e2fb0ea040f4ebfb83c153246f0d0a" title="Set the position of the light source. " alt="" coords="467,239,603,280"/>
+<area shape="rect" id="node10" href="$classRa_1_1Engine_1_1Light.html#ad38532daa0a387eaa85526d94c794618" title="set the direction of lighting " alt="" coords="467,304,603,345"/>
+<area shape="rect" id="node11" href="$classRa_1_1Engine_1_1Camera.html#a23be7aa714c0e9c2a9429dfc9ef2c53a" title="Return the direction the camera is looking at. " alt="" coords="461,369,609,411"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1Camera.html#a7a2c1c84e3063c6c3f09d490477abb0f" title="Apply the local transformation &#39;T&#39; to the camera. " alt="" coords="673,71,821,112"/>
+<area shape="rect" id="node7" href="$classRa_1_1Engine_1_1RenderObject.html#a2d6a1bc2b7646fe0912035a2ece24864" title="Ra::Engine::RenderObject\l::setLocalTransform" alt="" coords="885,68,1068,109"/>
+</map>

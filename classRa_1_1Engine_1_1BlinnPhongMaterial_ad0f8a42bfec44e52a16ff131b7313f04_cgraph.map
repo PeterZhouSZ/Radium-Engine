@@ -1,0 +1,6 @@
+<map id="Ra::Engine::BlinnPhongMaterial::bind" name="Ra::Engine::BlinnPhongMaterial::bind">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1ShaderProgram.html#a5f7ae2880276f421c378810e3da65c4c" title="Ra::Engine::ShaderProgram\l::setUniform" alt="" coords="282,5,481,47"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1BlinnPhongMaterial.html#a4a7bbd9d6383e3efa88e27dfb70c0040" title="Get the texture associated to the given semantic. " alt="" coords="272,71,491,112"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1ShaderProgram.html#a072ee5d15f92b6bfdf7f22c9e959ddb5" title="use automatic texture unit computation if you want to send a particular texture unit, use setUniform. " alt="" coords="282,136,481,177"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1Texture.html#a9ba7fb88d2b2b023ad5e68f2d4f3f1bb" title="Bind the texture to enable its use in a shader. " alt="" coords="539,136,681,177"/>
+</map>

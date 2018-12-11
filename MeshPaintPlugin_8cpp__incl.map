@@ -1,0 +1,34 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/Plugins/MeshPaint/src/MeshPaintPlugin.cpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/Plugins/MeshPaint/src/MeshPaintPlugin.cpp">
+<area shape="rect" id="node2" href="$MeshPaintPlugin_8hpp.html" title="MeshPaintPlugin.hpp" alt="" coords="3016,124,3170,151"/>
+<area shape="rect" id="node12" href="$MeshPaintUI_8h.html" title="UI/MeshPaintUI.h" alt="" coords="3064,206,3194,233"/>
+<area shape="rect" id="node13" href="$PickingManager_8hpp.html" title="GuiBase/Utils/PickingManager.hpp" alt="" coords="2975,295,3214,322"/>
+<area shape="rect" id="node24" href="$Entity_8hpp.html" title="Engine/Entity/Entity.hpp" alt="" coords="897,385,1068,411"/>
+<area shape="rect" id="node30" href="$EntityManager_8hpp.html" title="Engine/Managers/EntityManager\l/EntityManager.hpp" alt="" coords="1811,377,2039,419"/>
+<area shape="rect" id="node34" href="$SignalManager_8hpp.html" title="Engine/Managers/SignalManager\l/SignalManager.hpp" alt="" coords="1819,288,2050,329"/>
+<area shape="rect" id="node36" href="$SystemDisplay_8hpp.html" title="Engine/Managers/SystemDisplay\l/SystemDisplay.hpp" alt="" coords="867,288,1098,329"/>
+<area shape="rect" id="node40" href="$RadiumEngine_8hpp.html" title="Engine/RadiumEngine.hpp" alt="" coords="1599,385,1787,411"/>
+<area shape="rect" id="node41" href="$RenderObject_8hpp.html" title="Engine/Renderer/RenderObject\l/RenderObject.hpp" alt="" coords="2074,288,2288,329"/>
+<area shape="rect" id="node44" href="$RenderObjectManager_8hpp.html" title="Engine/Renderer/RenderObject\l/RenderObjectManager.hpp" alt="" coords="2868,377,3083,419"/>
+<area shape="rect" id="node46" href="$SelectionManager_8hpp.html" title="GuiBase/SelectionManager\l/SelectionManager.hpp" alt="" coords="2080,199,2274,240"/>
+<area shape="rect" id="node50" href="$MeshPaintSystem_8hpp.html" title="MeshPaintSystem.hpp" alt="" coords="2622,124,2786,151"/>
+<area shape="rect" id="node3" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="3190,556,3350,583"/>
+<area shape="rect" id="node5" href="$RadiumPluginInterface_8hpp.html" title="PluginBase/RadiumPluginInterface.hpp" alt="" coords="2400,206,2666,233"/>
+<area shape="rect" id="node21" href="$MeshPaintPluginMacros_8hpp.html" title="MeshPaintPluginMacros.hpp" alt="" coords="2842,206,3040,233"/>
+<area shape="rect" id="node14" href="$RaGuiBase_8hpp.html" title="GuiBase/RaGuiBase.hpp" alt="" coords="3158,385,3334,411"/>
+<area shape="rect" id="node15" href="$Renderer_8hpp.html" title="Engine/Renderer/Renderer.hpp" alt="" coords="2630,385,2844,411"/>
+<area shape="rect" id="node16" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="1482,474,1638,501"/>
+<area shape="rect" id="node19" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="626,556,834,583"/>
+<area shape="rect" id="node26" href="$IndexedObject_8hpp.html" title="Core/Index/IndexedObject.hpp" alt="" coords="821,474,1034,501"/>
+<area shape="rect" id="node28" href="$Ray_8hpp.html" title="Core/Math/Ray.hpp" alt="" coords="605,474,746,501"/>
+<area shape="rect" id="node29" href="$Entity_8inl.html" title="Engine/Entity/Entity.inl" alt="" coords="1110,474,1271,501"/>
+<area shape="rect" id="node27" href="$Index_8hpp.html" title="Core/Index/Index.hpp" alt="" coords="1663,556,1819,583"/>
+<area shape="rect" id="node32" href="$IndexMap_8hpp.html" title="Core/Index/IndexMap.hpp" alt="" coords="2563,474,2746,501"/>
+<area shape="rect" id="node33" href="$Singleton_8hpp.html" title="Core/Utils/Singleton.hpp" alt="" coords="1662,474,1838,501"/>
+<area shape="rect" id="node35" href="$ItemEntry_8hpp.html" title="Engine/ItemModel/ItemEntry.hpp" alt="" coords="1244,385,1472,411"/>
+<area shape="rect" id="node37" href="$ColorPresets_8hpp.html" title="Core/Math/ColorPresets.hpp" alt="" coords="55,385,256,411"/>
+<area shape="rect" id="node38" href="$Component_8hpp.html" title="Engine/Component/Component.hpp" alt="" coords="281,385,532,411"/>
+<area shape="rect" id="node39" href="$DrawPrimitives_8hpp.html" title="Engine/Renderer/RenderObject\l/Primitives/DrawPrimitives.hpp" alt="" coords="556,377,771,419"/>
+<area shape="rect" id="node42" href="$RenderObjectTypes_8hpp.html" title="Engine/Renderer/RenderObject\l/RenderObjectTypes.hpp" alt="" coords="3018,467,3232,508"/>
+<area shape="rect" id="node43" href="$RenderTechnique_8hpp.html" title="Engine/Renderer/RenderTechnique\l/RenderTechnique.hpp" alt="" coords="2114,377,2352,419"/>
+<area shape="rect" id="node47" href="$EntityTreeModel_8hpp.html" title="GuiBase/TreeModel/Entity\lTreeModel.hpp" alt="" coords="2312,288,2495,329"/>
+</map>

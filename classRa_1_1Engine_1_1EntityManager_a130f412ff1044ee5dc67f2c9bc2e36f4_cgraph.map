@@ -1,0 +1,5 @@
+<map id="Ra::Engine::EntityManager::createEntity" name="Ra::Engine::EntityManager::createEntity">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1StringUtils.html#a63b10a7c14473b4aa762cf00e0432690" title="Writes a formatted print into the given string, similarly to sprintf. " alt="" coords="262,5,413,47"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1EntityManager.html#a5115cccae6aaef614ad4bd08e64d8185" title="Check wether an entity with a given name exists or not. " alt="" coords="243,71,432,112"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1StringUtils.html#ac348328b878bb8f1b1c1a3335ea20c4b" title="Ra::Core::StringUtils\l::stringvPrintf" alt="" coords="480,5,631,47"/>
+</map>

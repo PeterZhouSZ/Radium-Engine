@@ -1,0 +1,21 @@
+<map id="Ra::Asset::FileData" name="Ra::Asset::FileData">
+<area shape="rect" id="node4" href="$classRa_1_1Asset_1_1LightData.html" title="Asset defining how lights must be passed to the Radium systems from a loader. " alt="" coords="4395,1511,4551,1808"/>
+<area shape="rect" id="node5" href="$classRa_1_1Asset_1_1AssetData.html" title="General interface of an asset data. " alt="" coords="2721,432,2878,553"/>
+<area shape="rect" id="node25" href="$classRa_1_1Asset_1_1AnimationData.html" title="{Ra::Asset::AnimationData\n||+ AnimationData()\l+ ~AnimationData()\l+ setName()\l+ getTime()\l+ setTime()\l+ getTimeStep()\l+ setTimeStep()\l+ getFramesSize()\l+ getFrames()\l+ setFrames()\l+ displayInfo()\l}" alt="" coords="2970,1547,3157,1771"/>
+<area shape="rect" id="node30" href="$classRa_1_1Asset_1_1CameraData.html" title="The CameraData class stores the data related to one of the Cameras of a loaded scene. " alt="" coords="3182,1474,3372,1845"/>
+<area shape="rect" id="node34" href="$classRa_1_1Asset_1_1GeometryData.html" title="The GeometryData class stores all the geometry related data of a loaded object. " alt="" coords="922,777,1115,2541"/>
+<area shape="rect" id="node46" href="$classRa_1_1Asset_1_1HandleData.html" title="{Ra::Asset::HandleData\n||+ HandleData()\l+ HandleData()\l+ ~HandleData()\l+ setName()\l+ getType()\l+ setType()\l+ getFrame()\l+ setFrame()\l+ getVertexSize()\l+ setVertexSize()\l+ setNameTable()\l+ getComponentDataSize()\l+ getComponentData()\l+ getComponentData()\l+ getComponent()\l+ getComponent()\l+ setComponents()\l+ getEdgeData()\l+ getEdgeData()\l+ setEdges()\l+ getFaceData()\l+ getFaceData()\l+ setFaces()\l+ recomputeAllIndices()\l+ isPointCloud()\l+ isSkeleton()\l+ isCage()\l+ hasComponents()\l+ hasEdges()\l+ hasFaces()\l+ needsEndNodes()\l+ getIndexOf()\l+ needEndNodes()\l+ displayInfo()\l}" alt="" coords="1862,1379,2063,1940"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="2790,160,2876,237"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="2764,5,2902,97"/>
+<area shape="rect" id="node19" href="$structRa_1_1Asset_1_1LightData_1_1LightAttenuation.html" title="Define the parameters of the attenuation function. " alt="" coords="5480,447,5634,539"/>
+<area shape="rect" id="node27" href="$classRa_1_1Asset_1_1AnimationTime.html" title="{Ra::Asset::AnimationTime\n||+ AnimationTime()\l+ AnimationTime()\l+ ~AnimationTime()\l+ getStart()\l+ setStart()\l+ getEnd()\l+ setEnd()\l+ duration()\l+ merge()\l+ contain()\l+ intersect()\l+ isValid()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ operator==()\l+ operator\&lt;()\l+ operator\&gt;()\l}" alt="" coords="3000,329,3186,656"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="2558,1621,2713,1698"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="2267,160,2394,237"/>
+<area shape="rect" id="node37" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Core::VectorNui \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="416,439,575,546"/>
+<area shape="rect" id="node38" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Core::Vector3 \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="599,439,758,546"/>
+<area shape="rect" id="node41" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Core::Color \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="51,439,210,546"/>
+<area shape="rect" id="node42" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Core::Vector2ui \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="234,439,392,546"/>
+<area shape="rect" id="node43" href="$classbool.html" title="{bool\n||}" alt="" coords="2067,454,2116,531"/>
+<area shape="rect" id="node47" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Core::VectorNi \&gt;\n||}" alt="" coords="1848,447,2042,539"/>
+<area shape="rect" id="node49" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Core::Vector2i \&gt;\n||}" alt="" coords="1565,447,1760,539"/>
+</map>

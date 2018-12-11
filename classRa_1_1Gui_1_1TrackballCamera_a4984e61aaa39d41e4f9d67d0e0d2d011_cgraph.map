@@ -1,0 +1,8 @@
+<map id="Ra::Gui::TrackballCamera::handleCameraPan" name="Ra::Gui::TrackballCamera::handleCameraPan">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Camera.html#af453374420a795f76a224bd795f8ff5e" title="Ra::Engine::Camera\l::getRightVector" alt="" coords="239,5,387,47"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Camera.html#adfc7c573c5cedb70aadd8afd8274253b" title="Return the up vector. " alt="" coords="239,71,387,112"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="233,137,392,163"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1Camera.html#a7a2c1c84e3063c6c3f09d490477abb0f" title="Apply the local transformation &#39;T&#39; to the camera. " alt="" coords="239,188,387,229"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1Camera.html#a724a052e94817af7e602129467c8696f" title="Return the position. " alt="" coords="457,155,605,196"/>
+<area shape="rect" id="node7" href="$classRa_1_1Engine_1_1RenderObject.html#a2d6a1bc2b7646fe0912035a2ece24864" title="Ra::Engine::RenderObject\l::setLocalTransform" alt="" coords="440,220,623,261"/>
+</map>

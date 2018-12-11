@@ -1,0 +1,5 @@
+<map id="Ra::Gui::CameraInterface::resizeViewport" name="Ra::Gui::CameraInterface::resizeViewport">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Camera.html#a2acbb1a258f8d0af86edcd978cfbf3e1" title="Change the viewport size. " alt="" coords="236,5,384,47"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Camera.html#a2124136d939bd433f9630e23c403cdd6" title="Update the projection matrix according to the current parameters. " alt="" coords="432,5,580,47"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="628,13,787,39"/>
+</map>

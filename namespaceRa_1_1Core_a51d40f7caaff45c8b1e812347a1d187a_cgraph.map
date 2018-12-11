@@ -1,0 +1,8 @@
+<map id="Ra::Core::addAttribPairToCore" name="Ra::Core::addAttribPairToCore">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1TriangleMesh.html#a5551c0aa273f8528997a59507afbd9c8" title="Add attribute with the given name. " alt="" coords="263,71,429,112"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1AttribManager.html#aba5ff01e716bf2cfe571edad8b289ed9" title="Add attribute by name. " alt="" coords="477,71,652,112"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1AttribBase.html#a8f23218d034749f55d1984d1d852f507" title="Ra::Core::AttribBase\l::setName" alt="" coords="700,71,851,112"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1AttribBase.html#a3d9d6c2c919ec6131c4d5f2c604a4689" title="Ra::Core::AttribBase\l::resize" alt="" coords="899,5,1049,47"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1AttribBase.html#abb18b2b7de27f1cfaeb0a354350fc9b8" title="Ra::Core::AttribBase\l::getSize" alt="" coords="899,71,1049,112"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1AttribBase.html#aa4ec9628a8ac2c951a27ed2f3d785f95" title="Ra::Core::AttribBase\l::getStride" alt="" coords="899,136,1049,177"/>
+</map>

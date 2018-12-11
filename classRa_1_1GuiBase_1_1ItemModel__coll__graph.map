@@ -1,0 +1,8 @@
+<map id="Ra::GuiBase::ItemModel" name="Ra::GuiBase::ItemModel">
+<area shape="rect" id="node2" href="$classRa_1_1GuiBase_1_1TreeModel.html" title="This class implement QAbstractItem model with the TreeItem as its model Derived class must use some k..." alt="" coords="5,525,176,793"/>
+<area shape="rect" id="node3" href="$classQAbstractItemModel.html" title="{QAbstractItemModel\n||}" alt="" coords="14,355,167,433"/>
+<area shape="rect" id="node5" href="$classRa_1_1GuiBase_1_1TreeItem.html" title="Base class for element of the tree representation. " alt="" coords="397,877,560,1057"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="622,247,749,324"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="428,145,583,223"/>
+<area shape="rect" id="node10" href="$classRa_1_1Engine_1_1RadiumEngine.html" title="Engine main class : Manage all the systems and managers that are used by the engine module..." alt="" coords="201,503,410,815"/>
+</map>

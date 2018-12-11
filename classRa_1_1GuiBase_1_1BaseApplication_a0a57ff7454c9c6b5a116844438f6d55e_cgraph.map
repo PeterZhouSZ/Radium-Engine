@@ -1,0 +1,9 @@
+<map id="Ra::GuiBase::BaseApplication::createConnections" name="Ra::GuiBase::BaseApplication::createConnections">
+<area shape="rect" id="node2" href="$classRa_1_1GuiBase_1_1BaseApplication.html#aa19a984e0783e70237b8050feb1a3d2a" title="Ra::GuiBase::BaseApplication\l::appNeedsToQuit" alt="" coords="263,31,472,72"/>
+<area shape="rect" id="node3" href="$classRa_1_1GuiBase_1_1BaseApplication.html#a525be12318745eae6c4730dd7570c7bf" title="Ra::GuiBase::BaseApplication\l::initializeOpenGlPlugins" alt="" coords="263,96,472,137"/>
+<area shape="rect" id="node4" href="$classRa_1_1Gui_1_1Viewer.html#a17094c0201376a4beedb86fa39cf3fa2" title="Access to the feature picking manager. " alt="" coords="529,37,720,79"/>
+<area shape="rect" id="node7" href="$classRa_1_1Gui_1_1Viewer.html#a19d9e6da9d196e77f7d4bf8fee5ad227" title="Make the OpenGL context associated with the viewer the current context. " alt="" coords="520,103,729,130"/>
+<area shape="rect" id="node8" href="$classRa_1_1Gui_1_1Viewer.html#aaf6cf957403cdcbfa8f4dfd0c25c8e74" title="Reset the current OpenGL context that is no more the one associated with the viewer. " alt="" coords="522,154,727,181"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1Renderer.html#a3166160850c466595fe48a74116bc116" title="Lock rendering. " alt="" coords="777,5,932,47"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1Renderer.html#aa1773ee0f741df643e10d21d968fbcc3" title="Unlock the rendering. " alt="" coords="777,71,932,112"/>
+</map>

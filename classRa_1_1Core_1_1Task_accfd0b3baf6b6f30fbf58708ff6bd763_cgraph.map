@@ -1,0 +1,4 @@
+<map id="Ra::Core::Task::~Task" name="Ra::Core::Task::~Task">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1Task.html#a6c1ba13f4d8a2965f8b0b371c83efb69" title="Return the name of the task. " alt="" coords="211,5,389,32"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Task.html#a949ed1549444f19d3e74e044e0166a07" title="Do the task job. Will be called from the task queue threads. " alt="" coords="215,56,385,83"/>
+</map>

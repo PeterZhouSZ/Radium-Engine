@@ -1,0 +1,12 @@
+<map id="Ra::Gui::RotateGizmo::RotateGizmo" name="Ra::Gui::RotateGizmo::RotateGizmo">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Access the vertices positions. " alt="" coords="241,5,408,47"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Engine_1_1ShaderConfigurationFactory.html#a0bc60f21dbabd745961037f3d2f019c8" title="Get a configuration from the factory. " alt="" coords="211,71,439,112"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1RenderObject.html#ae1ea453e2b698cda9956586d11b9cfbd" title="Ra::Engine::RenderObject\l::setRenderTechnique" alt="" coords="233,136,416,177"/>
+<area shape="rect" id="node7" href="$classRa_1_1Engine_1_1RenderObject.html#ae8e94954e783a2012fd774598af1eb52" title="Ra::Engine::RenderObject\l::setMesh" alt="" coords="233,201,416,243"/>
+<area shape="rect" id="node8" href="$classRa_1_1Gui_1_1RotateGizmo.html#ae2bb91bda019135fbd93be06fa1fdb62" title="Called every time the underlying transform may have changed. " alt="" coords="246,267,403,308"/>
+<area shape="rect" id="node10" href="$classRa_1_1Engine_1_1Component.html#a1fbe1a8c7052a8bf3fd2ad2f6ae34772" title="Add a new render object to the component. This adds the RO to the manager for drawing. " alt="" coords="239,332,411,373"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1AttribManager.html#aaa6088620425c1e1d74b50f1b50eb596" title="Get attribute by handle. " alt="" coords="513,5,688,47"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1ShaderConfiguration.html#a7e20a600c78e8627f0238b342f4b42f2" title="Ra::Engine::ShaderConfiguration\l::getDefaultShaderConfig" alt="" coords="487,71,715,112"/>
+<area shape="rect" id="node9" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="521,274,680,301"/>
+<area shape="rect" id="node11" href="$classRa_1_1Engine_1_1Component.html#a10b0bc182b76165744ebea603ae32dfe" title="Shortcut to access the render object manager. " alt="" coords="515,332,687,373"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Ra::Core::TriangleMesh::TriangleMesh" name="Ra::Core::TriangleMesh::TriangleMesh">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1TriangleMesh.html#a59a1fe573e3f604ce5e3094abb0dff44" title="Assignment operator, copy all the mesh data (faces, geometry, attributes). " alt="" coords="220,71,387,112"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1TriangleMesh.html#af4ceca64fe85525529a75765c49eb80e" title="Appends another mesh to this one, but only if they have the same attributes. " alt="" coords="220,168,387,209"/>
+<area shape="rect" id="node10" href="$classRa_1_1Core_1_1TriangleMesh.html#aa838b995226a922fc10f2f8f4c6dec31" title="Erases all data, making the mesh empty. " alt="" coords="220,5,387,47"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1AttribManager.html#ae53b7e22a2098c6151c6b2702569a3be" title="clear all attribs, invalidate handles. " alt="" coords="435,5,609,47"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1AttribManager.html#a19855e5d5abcc6bd9201064e3502f9fa" title="Copy all attributes from m. " alt="" coords="435,71,609,112"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1AttribManager.html#a9f7e8414913d3c39d553dbd359f2f62a" title="Return true if *this and other have the same attributes, same amount and same names. " alt="" coords="435,136,609,177"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Access the vertices positions. " alt="" coords="439,201,605,243"/>
+<area shape="rect" id="node9" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="443,267,601,294"/>
+<area shape="rect" id="node8" href="$classRa_1_1Core_1_1AttribManager.html#aaa6088620425c1e1d74b50f1b50eb596" title="Get attribute by handle. " alt="" coords="657,201,832,243"/>
+</map>

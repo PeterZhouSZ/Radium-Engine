@@ -1,0 +1,8 @@
+<map id="AnimationPlugin::AnimationSystem" name="AnimationPlugin::AnimationSystem">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1CoupledTimedSystem.html" title="{Ra::Engine::CoupledTimed\lSystem\n||+ play()\l+ step()\l+ reset()\l+ cacheFrame()\l+ restoreFrame()\l}" alt="" coords="163,824,351,975"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1BaseCouplingSystem.html" title="{Ra::Engine::BaseCoupling\lSystem\&lt; AbstractTimedSystem \&gt;\n||+ BaseCouplingSystem()\l+ BaseCouplingSystem()\l+ ~BaseCouplingSystem()\l+ operator=()\l+ addSystem()\l+ generateTasks()\l+ handleAssetLoading()\l# dispatch()\l# dispatch()\l# conditionnaldispatch()\l# conditionnaldispatch()\l}" alt="" coords="135,536,378,775"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1AbstractTimedSystem.html" title="Timed Systems are systems which can be disabled or paused, e.g. animation systems. " alt="" coords="10,264,210,444"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1System.html" title="Systems are responsible of updating a specific subset of the components of each entity. " alt="" coords="5,5,215,185"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1BaseCouplingSystem.html" title="Base class for systems coupling multiple subsystems. " alt="" coords="234,235,477,473"/>
+<area shape="rect" id="node7" href="$classRa_1_1Engine_1_1__BaseAbstractSystem.html" title="{_BaseAbstractSystem\n||}" alt="" coords="273,57,437,134"/>
+</map>

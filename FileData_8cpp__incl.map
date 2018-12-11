@@ -1,0 +1,32 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/Core/File/FileData.cpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/Core/File/FileData.cpp">
+<area shape="rect" id="node2" href="$FileData_8hpp.html" title="Core/File/FileData.hpp" alt="" coords="2139,109,2298,136"/>
+<area shape="rect" id="node6" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="2420,691,2551,717"/>
+<area shape="rect" id="node13" href="$FileData_8inl.html" title="Core/File/FileData.inl" alt="" coords="1424,184,1573,211"/>
+<area shape="rect" id="node7" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="697,765,857,792"/>
+<area shape="rect" id="node14" href="$AnimationData_8hpp.html" title="Core/File/AnimationData.hpp" alt="" coords="477,259,681,285"/>
+<area shape="rect" id="node33" href="$Log_8hpp.html" title="Core/Log/Log.hpp" alt="" coords="803,519,938,546"/>
+<area shape="rect" id="node37" href="$CameraData_8hpp.html" title="Core/File/CameraData.hpp" alt="" coords="1831,341,2022,367"/>
+<area shape="rect" id="node41" href="$GeometryData_8hpp.html" title="Core/File/GeometryData.hpp" alt="" coords="2671,259,2873,285"/>
+<area shape="rect" id="node47" href="$HandleData_8hpp.html" title="Core/File/HandleData.hpp" alt="" coords="929,341,1113,367"/>
+<area shape="rect" id="node49" href="$LightData_8hpp.html" title="Core/File/LightData.hpp" alt="" coords="1413,341,1584,367"/>
+<area shape="rect" id="node15" href="$AssetData_8hpp.html" title="Core/File/AssetData.hpp" alt="" coords="1135,430,1310,457"/>
+<area shape="rect" id="node16" href="$AnimationTime_8hpp.html" title="Core/File/KeyFrame\l/AnimationTime.hpp" alt="" coords="277,512,427,553"/>
+<area shape="rect" id="node19" href="$KeyTransform_8hpp.html" title="Core/File/KeyFrame\l/KeyTransform.hpp" alt="" coords="617,333,759,375"/>
+<area shape="rect" id="node32" href="$AnimationData_8inl.html" title="Core/File/AnimationData.inl" alt="" coords="245,341,440,367"/>
+<area shape="rect" id="node20" href="$Interpolation_8hpp.html" title="Core/File/KeyFrame\l/Interpolation.hpp" alt="" coords="617,423,759,464"/>
+<area shape="rect" id="node30" href="$KeyFrame_8hpp.html" title="Core/File/KeyFrame\l/KeyFrame.hpp" alt="" coords="297,423,439,464"/>
+<area shape="rect" id="node21" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="1684,519,1892,546"/>
+<area shape="rect" id="node27" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="2296,609,2448,635"/>
+<area shape="rect" id="node29" href="$LinearAlgebra_8inl.html" title="Core/Math/LinearAlgebra.inl" alt="" coords="1909,609,2107,635"/>
+<area shape="rect" id="node35" href="$StringUtils_8hpp.html" title="Core/String/StringUtils.hpp" alt="" coords="985,609,1177,635"/>
+<area shape="rect" id="node38" href="$VectorArray_8hpp.html" title="Core/Containers/VectorArray.hpp" alt="" coords="2739,430,2970,457"/>
+<area shape="rect" id="node40" href="$CameraData_8inl.html" title="Core/File/CameraData.inl" alt="" coords="1773,430,1953,457"/>
+<area shape="rect" id="node39" href="$AlignedStdVector_8hpp.html" title="Core/Containers/AlignedStd\lVector.hpp" alt="" coords="2690,512,2889,553"/>
+<area shape="rect" id="node42" href="$Index_8hpp.html" title="Core/Index/Index.hpp" alt="" coords="2694,341,2850,367"/>
+<area shape="rect" id="node44" href="$MaterialData_8hpp.html" title="Core/File/MaterialData.hpp" alt="" coords="2479,341,2670,367"/>
+<area shape="rect" id="node46" href="$GeometryData_8inl.html" title="Core/File/GeometryData.inl" alt="" coords="2977,341,3170,367"/>
+<area shape="rect" id="node43" href="$Index_8inl.html" title="Core/Index/Index.inl" alt="" coords="3045,430,3192,457"/>
+<area shape="rect" id="node45" href="$MaterialData_8inl.html" title="Core/File/MaterialData.inl" alt="" coords="2281,430,2461,457"/>
+<area shape="rect" id="node48" href="$HandleData_8inl.html" title="Core/File/HandleData.inl" alt="" coords="783,430,958,457"/>
+<area shape="rect" id="node50" href="$LightData_8inl.html" title="Core/File/LightData.inl" alt="" coords="1335,430,1495,457"/>
+</map>

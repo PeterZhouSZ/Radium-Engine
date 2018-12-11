@@ -1,0 +1,20 @@
+<map id="Ra::Gui::TrackballCamera::fitScene" name="Ra::Gui::TrackballCamera::fitScene">
+<area shape="rect" id="node2" href="$classRa_1_1Gui_1_1TrackballCamera.html#a8cdf6e1b74fdca2d9d6089b253a0ed29" title="Ra::Gui::TrackballCamera\l::resetCamera" alt="" coords="233,207,413,249"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Camera.html#ab8f9fdfba7355b4589c4d9cb39f0b527" title="Set the position of the camera to &#39;position&#39;. " alt="" coords="477,338,625,379"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1Camera.html#a724a052e94817af7e602129467c8696f" title="Return the position. " alt="" coords="913,87,1061,129"/>
+<area shape="rect" id="node8" href="$classRa_1_1Gui_1_1TrackballCamera.html#a1f4216d79cee852ec5653a1a11fe4155" title="Update the polar coordinates of the Camera w.r.t. the trackball center. " alt="" coords="461,25,641,66"/>
+<area shape="rect" id="node9" href="$classRa_1_1Engine_1_1Light.html#a38e2fb0ea040f4ebfb83c153246f0d0a" title="Set the position of the light source. " alt="" coords="483,90,619,131"/>
+<area shape="rect" id="node10" href="$classRa_1_1Engine_1_1Light.html#ad38532daa0a387eaa85526d94c794618" title="set the direction of lighting " alt="" coords="483,273,619,314"/>
+<area shape="rect" id="node11" href="$classRa_1_1Engine_1_1Camera.html#a23be7aa714c0e9c2a9429dfc9ef2c53a" title="Return the direction the camera is looking at. " alt="" coords="477,403,625,445"/>
+<area shape="rect" id="node12" href="$classRa_1_1Engine_1_1Camera.html#aa241169212ffd56d847acdbaf5ad8159" title="Return the Field Of View. " alt="" coords="249,491,397,533"/>
+<area shape="rect" id="node13" href="$classRa_1_1Engine_1_1Camera.html#a73748da2c419ee029c80cdd27f3190f3" title="Return the aspect ratio of the viewport. " alt="" coords="249,557,397,598"/>
+<area shape="rect" id="node14" href="$namespaceOpenMesh.html#a8205f789ce08919bc11c58383574596c" title="OpenMesh::norm" alt="" coords="257,623,389,649"/>
+<area shape="rect" id="node15" href="$classRa_1_1Engine_1_1Camera.html#a2fd3ed37be68acb358df23c3f04b3d81" title="Set the direction of the camera to &#39;direction&#39;. " alt="" coords="249,426,397,467"/>
+<area shape="rect" id="node16" href="$classRa_1_1Engine_1_1Camera.html#ab6af32482906bdb9247db9fe4f72f165" title="Return the Z Far plane distance from the camera. " alt="" coords="249,674,397,715"/>
+<area shape="rect" id="node17" href="$classRa_1_1Engine_1_1Camera.html#a6c0c48dc4842c871a0544977c79412a1" title="Set the Z Far plane distance to &#39;zFar&#39;. " alt="" coords="249,739,397,781"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Camera.html#afb2eb1eaed43dfbad89a89f90c067b4e" title="Set the frame of the camera to &#39;frame&#39;. " alt="" coords="477,207,625,249"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1Camera.html#a7a2c1c84e3063c6c3f09d490477abb0f" title="Apply the local transformation &#39;T&#39; to the camera. " alt="" coords="695,338,843,379"/>
+<area shape="rect" id="node7" href="$classRa_1_1Engine_1_1RenderObject.html#a2d6a1bc2b7646fe0912035a2ece24864" title="Ra::Engine::RenderObject\l::setLocalTransform" alt="" coords="896,338,1079,379"/>
+<area shape="rect" id="node18" href="$classRa_1_1Engine_1_1Camera.html#a2124136d939bd433f9630e23c403cdd6" title="Update the projection matrix according to the current parameters. " alt="" coords="477,739,625,781"/>
+<area shape="rect" id="node19" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="689,747,848,773"/>
+</map>

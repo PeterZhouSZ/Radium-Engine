@@ -1,0 +1,18 @@
+<map id="AnimationPlugin::SkeletonBoneRenderObject::update" name="AnimationPlugin::SkeletonBoneRenderObject::update">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a2422e1bb4c3016f4b07f03696e6a8383" title="Get the i&#45;th bone endpoints. " alt="" coords="487,5,673,47"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1QuaternionUtils.html#ae49b72169aa4a3cb300979b34c6e1289" title="Returns the quaternion q multipled by a scalar factor of k. " alt="" coords="251,41,434,83"/>
+<area shape="rect" id="node6" href="$namespaceOpenMesh.html#a8205f789ce08919bc11c58383574596c" title="OpenMesh::norm" alt="" coords="277,107,409,134"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#aecd2137452897bd64ba998e255dd3751" title="Ra::Core::Animation\l::Skeleton::getTransform" alt="" coords="253,159,432,200"/>
+<area shape="rect" id="node15" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a32bd0db0d9620bb7e3f0fe50b541dae3" title="Returns the render object corresponding to the given index. " alt="" coords="247,224,439,265"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a209e8c037a722c617b3feebdbb85c044" title="Ra::Core::Graph::Adjacency\lList::isLeaf" alt="" coords="936,13,1132,55"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a63e089f5da2ddc2da39dfd5bd6adb410" title="SIZE. " alt="" coords="1180,112,1376,153"/>
+<area shape="rect" id="node8" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a5679e1beb544b515c4539ce48a2f2ba3" title="Ra::Core::Animation\l::Skeleton::size" alt="" coords="505,148,655,189"/>
+<area shape="rect" id="node9" href="$namespaceRa_1_1Core_1_1Animation.html#a93d6305ed74ab59961969dce601714c2" title="Ra::Core::Animation\l::operator\&lt;\&lt;" alt="" coords="730,148,879,189"/>
+<area shape="rect" id="node10" href="$classRa_1_1Core_1_1Animation_1_1Handle.html#af2c003e7a85469470d5591b019e8ab80" title="Ra::Core::Animation\l::Handle::getLabel" alt="" coords="959,275,1109,316"/>
+<area shape="rect" id="node12" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a8671f51516bd82a2ea4246bc0c1e34f1" title="Ra::Core::Graph::Adjacency\lList::isRoot" alt="" coords="936,79,1132,120"/>
+<area shape="rect" id="node13" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a5ef43669e94471df3df312cb9b49d00b" title="Ra::Core::Graph::Adjacency\lList::isJoint" alt="" coords="936,144,1132,185"/>
+<area shape="rect" id="node14" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a2812c8dd044a6595416cb05baf928777" title="Ra::Core::Graph::Adjacency\lList::isBranch" alt="" coords="936,209,1132,251"/>
+<area shape="rect" id="node11" href="$classRa_1_1Core_1_1Animation_1_1Handle.html#aba876355658e5f8953033d3bb8f18533" title="Ra::Core::Animation\l::Handle::size" alt="" coords="1203,275,1353,316"/>
+<area shape="rect" id="node16" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a4077b9cf9e1e4d62fd5456386f2d72c8" title="Returns true if the index points to a valid render object. " alt="" coords="489,224,671,265"/>
+<area shape="rect" id="node17" href="$classRa_1_1Core_1_1Index.html#a87c70243f30c65c1a24834d1829bda01" title="DESTRUCTOR: Must not be defined, we need it trivial to be constexpr. " alt="" coords="721,231,888,258"/>
+</map>

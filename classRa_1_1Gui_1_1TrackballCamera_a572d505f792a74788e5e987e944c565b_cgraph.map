@@ -1,0 +1,9 @@
+<map id="Ra::Gui::TrackballCamera::handleCameraRotate" name="Ra::Gui::TrackballCamera::handleCameraRotate">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Camera.html#a724a052e94817af7e602129467c8696f" title="Return the position. " alt="" coords="457,80,605,121"/>
+<area shape="rect" id="node3" href="$namespaceOpenMesh.html#a8205f789ce08919bc11c58383574596c" title="OpenMesh::norm" alt="" coords="247,33,379,59"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Vector.html#a42d87f3bd0658bac532d72f0ec528827" title="Get the cosine of the angle between two vectors. " alt="" coords="235,83,390,110"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="233,134,392,161"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1Camera.html#af453374420a795f76a224bd795f8ff5e" title="Ra::Engine::Camera\l::getRightVector" alt="" coords="239,185,387,227"/>
+<area shape="rect" id="node7" href="$classRa_1_1Engine_1_1Camera.html#a7a2c1c84e3063c6c3f09d490477abb0f" title="Apply the local transformation &#39;T&#39; to the camera. " alt="" coords="239,251,387,292"/>
+<area shape="rect" id="node8" href="$classRa_1_1Engine_1_1RenderObject.html#a2d6a1bc2b7646fe0912035a2ece24864" title="Ra::Engine::RenderObject\l::setLocalTransform" alt="" coords="440,251,623,292"/>
+</map>

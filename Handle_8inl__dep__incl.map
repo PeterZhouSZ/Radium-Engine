@@ -1,0 +1,22 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/Core/Animation/Handle/Handle.inl" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/Core/Animation/Handle/Handle.inl">
+<area shape="rect" id="node2" href="$Handle_8hpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/src/Core/Animation/Handle\l/Handle.hpp" alt="" coords="315,124,512,195"/>
+<area shape="rect" id="node3" href="$Cage_8hpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/src/Core/Animation/Handle\l/Cage.hpp" alt="" coords="72,243,269,313"/>
+<area shape="rect" id="node5" href="$Handle_8cpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/src/Core/Animation/Handle\l/Handle.cpp" alt="" coords="315,243,512,313"/>
+<area shape="rect" id="node6" href="$Skeleton_8hpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/src/Core/Animation/Handle\l/Skeleton.hpp" alt="" coords="547,243,744,313"/>
+<area shape="rect" id="node4" href="$Cage_8cpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/src/Core/Animation/Handle\l/Cage.cpp" alt="" coords="29,361,227,432"/>
+<area shape="rect" id="node7" href="$Skeleton_8cpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/src/Core/Animation/Handle\l/Skeleton.cpp" alt="" coords="557,361,755,432"/>
+<area shape="rect" id="node8" href="$SkinningData_8hpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/src/Core/Animation/Skinning\l/SkinningData.hpp" alt="" coords="779,361,986,432"/>
+<area shape="rect" id="node16" href="$HandleToSkeleton_8cpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/src/Core/File/HandleToSkeleton.cpp" alt="" coords="1011,369,1259,425"/>
+<area shape="rect" id="node17" href="$AnimationComponent_8hpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/Plugins/Animation/src/Animation\lComponent.hpp" alt="" coords="251,361,483,432"/>
+<area shape="rect" id="node20" href="$SkeletonBoneDrawable_8hpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/Plugins/Animation/src/Drawing\l/SkeletonBoneDrawable.hpp" alt="" coords="404,480,623,551"/>
+<area shape="rect" id="node9" href="$RotationCenterSkinning_8hpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/src/Core/Animation/Skinning\l/RotationCenterSkinning.hpp" alt="" coords="767,480,974,551"/>
+<area shape="rect" id="node12" href="$SkinningDisplayComponent_8hpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/Plugins/Skinning/src/Display\l/SkinningDisplayComponent.hpp" alt="" coords="1349,480,1579,551"/>
+<area shape="rect" id="node15" href="$SkinningComponent_8hpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/Plugins/Skinning/src/SkinningComponent.hpp" alt="" coords="998,487,1311,543"/>
+<area shape="rect" id="node10" href="$RotationCenterSkinning_8cpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/src/Core/Animation/Skinning\l/RotationCenterSkinning.cpp" alt="" coords="761,599,967,669"/>
+<area shape="rect" id="node11" href="$SkinningComponent_8cpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/Plugins/Skinning/src/SkinningComponent.cpp" alt="" coords="992,606,1304,662"/>
+<area shape="rect" id="node13" href="$SkinningSystem_8hpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/Plugins/Skinning/src/SkinningSystem.hpp" alt="" coords="1329,606,1615,662"/>
+<area shape="rect" id="node14" href="$SkinningPlugin_8cpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/Plugins/Skinning/src/SkinningPlugin.cpp" alt="" coords="1335,717,1609,773"/>
+<area shape="rect" id="node18" href="$AnimationComponent_8cpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/Plugins/Animation/src/Animation\lComponent.cpp" alt="" coords="261,599,493,669"/>
+<area shape="rect" id="node19" href="$AnimationSystem_8cpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/Plugins/Animation/src/Animation\lSystem.cpp" alt="" coords="5,599,237,669"/>
+<area shape="rect" id="node21" href="$SkeletonBoneDrawable_8cpp.html" title="/home/travis/build\l/STORM&#45;IRIT/Radium&#45;Engine\l/Plugins/Animation/src/Drawing\l/SkeletonBoneDrawable.cpp" alt="" coords="517,599,736,669"/>
+</map>

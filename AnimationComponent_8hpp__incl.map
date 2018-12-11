@@ -1,0 +1,33 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/Plugins/Animation/src/AnimationComponent.hpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/Plugins/Animation/src/AnimationComponent.hpp">
+<area shape="rect" id="node2" href="$AnimationPluginMacros_8hpp.html" title="AnimationPluginMacros.hpp" alt="" coords="61,131,259,158"/>
+<area shape="rect" id="node9" href="$Animation_8hpp.html" title="Core/Animation/Animation.hpp" alt="" coords="1321,221,1540,247"/>
+<area shape="rect" id="node10" href="$Pose_8hpp.html" title="Core/Animation/Pose\l/Pose.hpp" alt="" coords="611,303,767,344"/>
+<area shape="rect" id="node25" href="$HandleWeight_8hpp.html" title="Core/Animation/Handle\l/HandleWeight.hpp" alt="" coords="1492,303,1663,344"/>
+<area shape="rect" id="node27" href="$Skeleton_8hpp.html" title="Core/Animation/Handle\l/Skeleton.hpp" alt="" coords="437,124,608,165"/>
+<area shape="rect" id="node32" href="$AnimationData_8hpp.html" title="Core/File/AnimationData.hpp" alt="" coords="2234,131,2438,158"/>
+<area shape="rect" id="node42" href="$HandleData_8hpp.html" title="Core/File/HandleData.hpp" alt="" coords="2244,310,2428,337"/>
+<area shape="rect" id="node44" href="$Component_8hpp.html" title="Engine/Component/Component.hpp" alt="" coords="1047,221,1297,247"/>
+<area shape="rect" id="node3" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="2129,645,2289,672"/>
+<area shape="rect" id="node11" href="$AlignedStdVector_8hpp.html" title="Core/Containers/AlignedStd\lVector.hpp" alt="" coords="1467,392,1666,433"/>
+<area shape="rect" id="node15" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="905,399,1113,426"/>
+<area shape="rect" id="node12" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="2144,571,2275,597"/>
+<area shape="rect" id="node21" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="333,489,485,515"/>
+<area shape="rect" id="node24" href="$LinearAlgebra_8inl.html" title="Core/Math/LinearAlgebra.inl" alt="" coords="559,489,758,515"/>
+<area shape="rect" id="node28" href="$Handle_8hpp.html" title="Core/Animation/Handle\l/Handle.hpp" alt="" coords="437,213,608,255"/>
+<area shape="rect" id="node30" href="$AdjacencyList_8hpp.html" title="Core/Utils/Graph/Adjacency\lList.hpp" alt="" coords="130,213,326,255"/>
+<area shape="rect" id="node29" href="$Handle_8inl.html" title="Core/Animation/Handle\l/Handle.inl" alt="" coords="264,303,435,344"/>
+<area shape="rect" id="node31" href="$AdjacencyList_8inl.html" title="Core/Utils/Graph/Adjacency\lList.inl" alt="" coords="43,303,239,344"/>
+<area shape="rect" id="node34" href="$AssetData_8hpp.html" title="Core/File/AssetData.hpp" alt="" coords="2425,399,2599,426"/>
+<area shape="rect" id="node35" href="$AnimationTime_8hpp.html" title="Core/File/KeyFrame\l/AnimationTime.hpp" alt="" coords="2097,392,2247,433"/>
+<area shape="rect" id="node37" href="$KeyTransform_8hpp.html" title="Core/File/KeyFrame\l/KeyTransform.hpp" alt="" coords="1738,213,1881,255"/>
+<area shape="rect" id="node40" href="$AnimationData_8inl.html" title="Core/File/AnimationData.inl" alt="" coords="2553,221,2748,247"/>
+<area shape="rect" id="node38" href="$Interpolation_8hpp.html" title="Core/File/KeyFrame\l/Interpolation.hpp" alt="" coords="843,303,986,344"/>
+<area shape="rect" id="node39" href="$KeyFrame_8hpp.html" title="Core/File/KeyFrame\l/KeyFrame.hpp" alt="" coords="1738,303,1881,344"/>
+<area shape="rect" id="node41" href="$Log_8hpp.html" title="Core/Log/Log.hpp" alt="" coords="2675,489,2810,515"/>
+<area shape="rect" id="node43" href="$HandleData_8inl.html" title="Core/File/HandleData.inl" alt="" coords="2675,399,2850,426"/>
+<area shape="rect" id="node45" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="218,571,374,597"/>
+<area shape="rect" id="node46" href="$IndexedObject_8hpp.html" title="Core/Index/IndexedObject.hpp" alt="" coords="1956,310,2169,337"/>
+<area shape="rect" id="node48" href="$Ray_8hpp.html" title="Core/Math/Ray.hpp" alt="" coords="1009,310,1151,337"/>
+<area shape="rect" id="node49" href="$Component_8inl.html" title="Engine/Component/Component.inl" alt="" coords="1226,310,1467,337"/>
+<area shape="rect" id="node47" href="$Index_8hpp.html" title="Core/Index/Index.hpp" alt="" coords="1917,399,2073,426"/>
+</map>

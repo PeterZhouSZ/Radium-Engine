@@ -1,0 +1,5 @@
+<map id="Ra::Engine::Texture::resize" name="Ra::Engine::Texture::resize">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Texture.html#a83f5275422d0c25b40a65027f524f0a0" title="Generate the OpenGL representation of the texture according to the stored TextureData. " alt="" coords="196,12,339,53"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Texture.html#a2a52c78f8814613e9e7cac775796d20d" title="Update the data contained by the texture. " alt="" coords="390,71,533,112"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Texture.html#aa803962552a3ec81d6e74ec62c319f16" title="Update the parameters contained by the texture. " alt="" coords="387,5,536,47"/>
+</map>

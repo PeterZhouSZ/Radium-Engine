@@ -1,0 +1,17 @@
+<map id="Ra::Engine::GeometryComponent::setupIO" name="Ra::Engine::GeometryComponent::setupIO">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Component.html#a207c1dc2e97856c22e0767fb77162933" title="Return the entity the component belongs to. " alt="" coords="321,5,493,47"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Component.html#a10b0bc182b76165744ebea603ae32dfe" title="Shortcut to access the render object manager. " alt="" coords="321,71,493,112"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a32bd0db0d9620bb7e3f0fe50b541dae3" title="Returns the render object corresponding to the given index. " alt="" coords="311,136,503,177"/>
+<area shape="rect" id="node7" href="$classRa_1_1Engine_1_1GeometryComponent.html#a1cd030ebe520f35605bc8b5ed4c06ad7" title="Returns the index of the associated RO (the display mesh) " alt="" coords="289,201,525,243"/>
+<area shape="rect" id="node8" href="$classRa_1_1Engine_1_1GeometryComponent.html#aadb84000b1245b28ed548af7ceb4a237" title="Returns the current display geometry. " alt="" coords="289,267,525,308"/>
+<area shape="rect" id="node9" href="$classRa_1_1Engine_1_1Mesh.html#ad03a7d45ad807794b1a6511bd8153962" title="Returns the underlying triangle mesh. " alt="" coords="573,303,797,330"/>
+<area shape="rect" id="node10" href="$classRa_1_1Engine_1_1Mesh.html#a9a1dcadf7fb4ff851b18c87b3a98ac6b" title="Mark one of the data types as dirty, forcing an update of the openGL buffer. " alt="" coords="313,383,502,410"/>
+<area shape="rect" id="node11" href="$classRa_1_1Engine_1_1Mesh.html#a9bdf796a08da5ad5e345c62629774903" title="Use the given geometry as base for a display mesh. Normals are optionnal. " alt="" coords="292,434,523,461"/>
+<area shape="rect" id="node12" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Access the vertices positions. " alt="" coords="602,473,769,515"/>
+<area shape="rect" id="node16" href="$classRa_1_1Core_1_1TriangleMesh.html#a40d31b7b2943947d6eac5d906f0182fd" title="Access the vertices normals. " alt="" coords="602,539,769,580"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a4077b9cf9e1e4d62fd5456386f2d72c8" title="Returns true if the index points to a valid render object. " alt="" coords="594,136,777,177"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1Index.html#a87c70243f30c65c1a24834d1829bda01" title="DESTRUCTOR: Must not be defined, we need it trivial to be constexpr. " alt="" coords="849,143,1016,170"/>
+<area shape="rect" id="node14" href="$classRa_1_1Core_1_1TriangleMesh.html#a2050187a77536bb43bfa2e25c25389c6" title="Return the Handle to the attribute with the given name if it exists, an invalid handle otherwise..." alt="" coords="602,408,769,449"/>
+<area shape="rect" id="node13" href="$classRa_1_1Core_1_1AttribManager.html#aaa6088620425c1e1d74b50f1b50eb596" title="Get attribute by handle. " alt="" coords="845,507,1020,548"/>
+<area shape="rect" id="node15" href="$classRa_1_1Core_1_1AttribManager.html#a83cb9e1c9e687d161a3070ffbdf07b22" title="findAttrib Grab an attribute handler by name. " alt="" coords="845,408,1020,449"/>
+</map>

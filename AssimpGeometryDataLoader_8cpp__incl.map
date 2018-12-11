@@ -1,0 +1,25 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/IO/AssimpLoader/AssimpGeometryDataLoader.cpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/IO/AssimpLoader/AssimpGeometryDataLoader.cpp">
+<area shape="rect" id="node2" href="$AssimpGeometryDataLoader_8hpp.html" title="IO/AssimpLoader/AssimpGeometry\lDataLoader.hpp" alt="" coords="5,303,251,344"/>
+<area shape="rect" id="node27" href="$GeometryData_8hpp.html" title="Core/File/GeometryData.hpp" alt="" coords="1843,131,2045,158"/>
+<area shape="rect" id="node37" href="$Log_8hpp.html" title="Core/Log/Log.hpp" alt="" coords="2651,392,2786,419"/>
+<area shape="rect" id="node43" href="$BlinnPhongMaterialData_8hpp.html" title="Core/File/BlinnPhongMaterial\lData.hpp" alt="" coords="2267,124,2469,165"/>
+<area shape="rect" id="node45" href="$AssimpWrapper_8hpp.html" title="IO/AssimpLoader/AssimpWrapper.hpp" alt="" coords="2847,131,3107,158"/>
+<area shape="rect" id="node3" href="$DataLoader_8hpp.html" title="Core/File/DataLoader.hpp" alt="" coords="246,392,429,419"/>
+<area shape="rect" id="node6" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="1577,392,1785,419"/>
+<area shape="rect" id="node23" href="$RaIO_8hpp.html" title="IO/RaIO.hpp" alt="" coords="321,556,415,583"/>
+<area shape="rect" id="node7" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="2219,556,2349,583"/>
+<area shape="rect" id="node18" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="1051,474,1203,501"/>
+<area shape="rect" id="node22" href="$LinearAlgebra_8inl.html" title="Core/Math/LinearAlgebra.inl" alt="" coords="1883,474,2082,501"/>
+<area shape="rect" id="node8" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="2204,631,2364,657"/>
+<area shape="rect" id="node21" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="1141,556,1283,583"/>
+<area shape="rect" id="node29" href="$VectorArray_8hpp.html" title="Core/Containers/VectorArray.hpp" alt="" coords="1333,310,1563,337"/>
+<area shape="rect" id="node31" href="$Index_8hpp.html" title="Core/Index/Index.hpp" alt="" coords="345,221,501,247"/>
+<area shape="rect" id="node34" href="$AssetData_8hpp.html" title="Core/File/AssetData.hpp" alt="" coords="2413,392,2587,419"/>
+<area shape="rect" id="node35" href="$MaterialData_8hpp.html" title="Core/File/MaterialData.hpp" alt="" coords="2111,221,2302,247"/>
+<area shape="rect" id="node42" href="$GeometryData_8inl.html" title="Core/File/GeometryData.inl" alt="" coords="1847,310,2041,337"/>
+<area shape="rect" id="node30" href="$AlignedStdVector_8hpp.html" title="Core/Containers/AlignedStd\lVector.hpp" alt="" coords="727,467,926,508"/>
+<area shape="rect" id="node33" href="$Index_8inl.html" title="Core/Index/Index.inl" alt="" coords="275,310,421,337"/>
+<area shape="rect" id="node36" href="$MaterialData_8inl.html" title="Core/File/MaterialData.inl" alt="" coords="2117,310,2297,337"/>
+<area shape="rect" id="node39" href="$StringUtils_8hpp.html" title="Core/String/StringUtils.hpp" alt="" coords="2423,474,2615,501"/>
+<area shape="rect" id="node44" href="$BlinnPhongMaterialData_8inl.html" title="Core/File/BlinnPhongMaterial\lData.inl" alt="" coords="2428,213,2631,255"/>
+</map>

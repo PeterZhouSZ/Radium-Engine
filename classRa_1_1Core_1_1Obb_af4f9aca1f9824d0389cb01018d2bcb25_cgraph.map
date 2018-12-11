@@ -1,0 +1,6 @@
+<map id="Ra::Core::Obb::~Obb" name="Ra::Core::Obb::~Obb">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1Obb.html#a436b8de325944f97cc31262e5c3d8fc0" title="Return the AABB enclosing this. " alt="" coords="223,5,387,32"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Obb.html#a4c2ff00e7195a611f42d9c976819e879" title="Extends the OBB with an new point. " alt="" coords="218,56,393,83"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Obb.html#a7e8e2c7783d77b636f4433c6de6790f3" title="Returns the position of the i^th corner of AABB (model space) " alt="" coords="226,107,385,133"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1Obb.html#a424c8f35cbab351ee9570f6b0f1db85a" title="Returns the position of the ith corner of the OBB ( world space ) " alt="" coords="208,157,403,184"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="Ra::Core::AlignedStdVector&lt; T &gt;" name="Ra::Core::AlignedStdVector&lt; T &gt;">
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1VectorArray.html" title="{VectorArray\&lt; T \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="20,301,155,393"/>
+<area shape="rect" id="node4" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Scalar \&gt;\n||}" alt="" coords="179,301,374,393"/>
+<area shape="rect" id="node6" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Ra::Core::Triangle \&gt;\n||}" alt="" coords="542,417,737,509"/>
+<area shape="rect" id="node8" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Vector \&gt;\n||}" alt="" coords="173,417,367,509"/>
+<area shape="rect" id="node10" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; ChildrenList \&gt;\n||}" alt="" coords="1606,301,1801,393"/>
+<area shape="rect" id="node11" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; int \&gt;\n||}" alt="" coords="1825,301,2019,393"/>
+<area shape="rect" id="node12" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Core::Vector2ui \&gt;\n||}" alt="" coords="750,417,945,509"/>
+<area shape="rect" id="node14" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Vector3 \&gt;\n||}" alt="" coords="1159,541,1354,633"/>
+<area shape="rect" id="node16" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; uint8_t \&gt;\n||}" alt="" coords="2043,301,2238,393"/>
+<area shape="rect" id="node17" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\&lt; V \&gt;\n||}" alt="" coords="893,309,1127,386"/>
+<area shape="rect" id="node25" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Transform \&gt;\n||}" alt="" coords="2262,301,2457,393"/>
+<area shape="rect" id="node26" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Ra::Asset::HandleComponentData \&gt;\n||}" alt="" coords="2481,301,2752,393"/>
+<area shape="rect" id="node27" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Core::Color \&gt;\n||}" alt="" coords="1461,417,1655,509"/>
+<area shape="rect" id="node28" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Core::VectorNui \&gt;\n||}" alt="" coords="239,541,434,633"/>
+<area shape="rect" id="node29" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Core::VectorNi \&gt;\n||}" alt="" coords="2777,301,2971,393"/>
+<area shape="rect" id="node30" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Core::Vector3 \&gt;\n||}" alt="" coords="1199,417,1394,509"/>
+<area shape="rect" id="node31" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Face \&gt;\n||}" alt="" coords="1495,541,1690,633"/>
+<area shape="rect" id="node32" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Triangle \&gt;\n||}" alt="" coords="1711,417,1906,509"/>
+<area shape="rect" id="node33" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Ra::Core::DualQuaternion \&gt;\n||}" alt="" coords="2996,301,3211,393"/>
+<area shape="rect" id="node34" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Core::Vector2i \&gt;\n||}" alt="" coords="3235,301,3430,393"/>
+<area shape="rect" id="node2" title="STL class. " alt="" coords="1340,5,1531,97"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1VectorArray_3_01Scalar_01_4.html" title="This specialization stores an array of scalars which can be used as a dynamic Eigen column vector..." alt="" coords="5,533,164,640"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Ra::Core::Triangle \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="513,703,675,809"/>
+<area shape="rect" id="node9" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Vector \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="136,703,295,809"/>
+<area shape="rect" id="node13" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Core::Vector2ui \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="701,703,860,809"/>
+<area shape="rect" id="node15" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Vector3 \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="1105,703,1264,809"/>
+<area shape="rect" id="node18" href="$classRa_1_1Core_1_1VectorArray.html" title="This class is a wrapper around a std::vector of Core::Vectors. " alt="" coords="911,541,1109,633"/>
+<area shape="rect" id="node19" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\&lt; T \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="885,710,1081,802"/>
+<area shape="rect" id="node20" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Core::Color \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="1653,703,1812,809"/>
+<area shape="rect" id="node21" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Core::VectorNui \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="325,703,484,809"/>
+<area shape="rect" id="node22" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Core::Vector3 \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="1288,703,1447,809"/>
+<area shape="rect" id="node23" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Face \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="1471,703,1629,809"/>
+<area shape="rect" id="node24" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Triangle \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="1836,703,1995,809"/>
+</map>

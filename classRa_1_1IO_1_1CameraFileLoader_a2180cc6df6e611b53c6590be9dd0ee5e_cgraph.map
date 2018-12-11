@@ -1,0 +1,11 @@
+<map id="Ra::IO::CameraFileLoader::loadFile" name="Ra::IO::CameraFileLoader::loadFile">
+<area shape="rect" id="node2" href="$classRa_1_1Asset_1_1CameraData.html#a0b58cc07a81c63c980ae9ff2e961db3e" title="Return the name of the Camera. " alt="" coords="236,5,408,47"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1StringUtils.html#a385372757aef49b430a523e860df4def" title="Ra::Core::StringUtils\l::getBaseName" alt="" coords="247,71,397,112"/>
+<area shape="rect" id="node4" href="$classRa_1_1Asset_1_1CameraData.html#a011347b07a736aede440b811615372bb" title="Set the projection type of the Camera. " alt="" coords="236,136,408,177"/>
+<area shape="rect" id="node5" href="$classRa_1_1Asset_1_1CameraData.html#a11c15054dc68f8cfc22ac86b63ddb346" title="Set the transformation of the Camera. " alt="" coords="236,201,408,243"/>
+<area shape="rect" id="node6" href="$classRa_1_1Asset_1_1CameraData.html#a5e68619eb8810cb1b98c8dc19987bc44" title="Set the Field of View of the Camera. " alt="" coords="236,267,408,308"/>
+<area shape="rect" id="node7" href="$classRa_1_1Asset_1_1CameraData.html#ab3db0bea8144a8e3de886c2bfad49e7d" title="Set the distance from the near plane to the Camera. " alt="" coords="236,332,408,373"/>
+<area shape="rect" id="node8" href="$classRa_1_1Asset_1_1CameraData.html#a46fbb0c7521cb181974f155333339127" title="Set the distance from the far plane to the Camera. " alt="" coords="236,397,408,439"/>
+<area shape="rect" id="node9" href="$classRa_1_1Asset_1_1CameraData.html#a9ebb267200d6c3d9fe57e501fbd1eb44" title="Set the zoom factor of the Camera. " alt="" coords="236,463,408,504"/>
+<area shape="rect" id="node10" href="$classRa_1_1Asset_1_1CameraData.html#a95343705f4b55c4e1737bbb2bb60770d" title="Set the aspect ratio of the Camera. " alt="" coords="236,528,408,569"/>
+</map>

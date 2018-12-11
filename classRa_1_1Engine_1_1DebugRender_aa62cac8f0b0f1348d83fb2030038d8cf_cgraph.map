@@ -1,0 +1,16 @@
+<map id="Ra::Engine::DebugRender::addSphere" name="Ra::Engine::DebugRender::addSphere">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1DebugRender.html#a35b2c4a2e8776d9465881c27f3dacdf8" title="Ra::Engine::DebugRender\l::addMesh" alt="" coords="240,5,423,47"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Engine_1_1DrawPrimitives.html#ac79041c3945ad5cebaec16bbc14420eb" title="Displays sphere computed with given center and radius. " alt="" coords="236,71,427,112"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1MeshUtils.html#a9ac2d2183adddcbd0545be19ccfa1e8f" title="Create a spherical mesh by subdivision of an icosahedron. " alt="" coords="475,147,645,188"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Access the vertices positions. " alt="" coords="1309,216,1476,257"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1TriangleMesh.html#a40d31b7b2943947d6eac5d906f0182fd" title="Access the vertices normals. " alt="" coords="896,399,1063,440"/>
+<area shape="rect" id="node8" href="$namespaceRa_1_1Core_1_1Vector.html#a42d87f3bd0658bac532d72f0ec528827" title="Get the cosine of the angle between two vectors. " alt="" coords="693,78,848,105"/>
+<area shape="rect" id="node9" href="$namespaceRa_1_1Core_1_1MeshUtils.html#afbee0fe3203a295fb1f93b33dfb33f81" title="Fills the given array with the vertices of a given triangle. " alt="" coords="1111,216,1261,257"/>
+<area shape="rect" id="node10" href="$namespaceRa_1_1Core_1_1MeshUtils.html#a5398f7b15335cb47b83a2d573f277640" title="Check that the mesh is well built, asserting when it is not. " alt="" coords="697,281,844,323"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1AttribManager.html#aaa6088620425c1e1d74b50f1b50eb596" title="Get attribute by handle. " alt="" coords="1524,323,1699,364"/>
+<area shape="rect" id="node11" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="900,230,1059,257"/>
+<area shape="rect" id="node12" href="$namespaceRa_1_1Core_1_1MeshUtils.html#a746199d436bb1dc31c4bccb3953743b9" title="Returns the area of a given triangle. " alt="" coords="906,281,1053,323"/>
+<area shape="rect" id="node13" href="$namespaceRa_1_1Core_1_1Geometry.html#a178f2b7309fe2ea5bc31a3abcb25368e" title="Ra::Core::Geometry\l::triangleArea" alt="" coords="1112,369,1260,411"/>
+<area shape="rect" id="node14" href="$namespaceOpenMesh.html#a71e7f1dd3eac016d2b8245ac408a291c" title="OpenMesh::cross" alt="" coords="1327,330,1459,357"/>
+<area shape="rect" id="node15" href="$namespaceOpenMesh.html#a8205f789ce08919bc11c58383574596c" title="OpenMesh::norm" alt="" coords="1327,381,1459,407"/>
+</map>

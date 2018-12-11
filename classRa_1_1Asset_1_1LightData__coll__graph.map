@@ -1,0 +1,6 @@
+<map id="Ra::Asset::LightData" name="Ra::Asset::LightData">
+<area shape="rect" id="node2" href="$classRa_1_1Asset_1_1AssetData.html" title="General interface of an asset data. " alt="" coords="5,316,163,437"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="41,147,127,224"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="15,5,153,97"/>
+<area shape="rect" id="node16" href="$structRa_1_1Asset_1_1LightData_1_1LightAttenuation.html" title="Define the parameters of the attenuation function. " alt="" coords="930,331,1083,423"/>
+</map>

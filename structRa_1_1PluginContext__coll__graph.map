@@ -1,0 +1,28 @@
+<map id="Ra::PluginContext" name="Ra::PluginContext">
+<area shape="rect" id="node2" href="$classRa_1_1Gui_1_1Viewer.html" title="The Viewer is the main display class. " alt="" coords="2030,2900,2215,3520"/>
+<area shape="rect" id="node3" href="$classQWindow.html" title="{QWindow\n||}" alt="" coords="2315,2525,2394,2603"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Renderer.html" title="Abstract renderer for the engine. " alt="" coords="2702,2291,2879,2837"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1Texture.html" title="Represent a Texture of the engine See TextureManager to informations about how unique texture are def..." alt="" coords="3277,1028,3443,1355"/>
+<area shape="rect" id="node7" href="$structRa_1_1Engine_1_1TextureParameters.html" title="Describes the content and parameters of a texture. " alt="" coords="3669,514,3886,591"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="2843,147,2930,224"/>
+<area shape="rect" id="node40" href="$classRa_1_1Engine_1_1Component.html" title="A component is an element that can be updated by a system. " alt="" coords="639,404,854,701"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="2818,5,2955,97"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="3895,1153,4027,1230"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="2967,1153,3094,1230"/>
+<area shape="rect" id="node25" title="STL class. " alt="" coords="2107,1153,2261,1230"/>
+<area shape="rect" id="node22" href="$classbool.html" title="{bool\n||}" alt="" coords="2442,1153,2491,1230"/>
+<area shape="rect" id="node37" href="$classRa_1_1Gui_1_1CameraInterface.html" title="The CameraInterface class is the generic class for camera manipulators. " alt="" coords="779,1608,1032,2184"/>
+<area shape="rect" id="node23" href="$classRa_1_1Engine_1_1RenderObjectManager.html" title="{Ra::Engine::RenderObject\lManager\n||+ RenderObjectManager()\l+ ~RenderObjectManager()\l+ addRenderObject()\l+ removeRenderObject()\l+ getRenderObjectsCount()\l+ getRenderObject()\l+ getRenderObjects()\l+ getRenderObjectsByType()\l+ exists()\l+ renderObjectExpired()\l+ getNumFaces()\l+ getNumVertices()\l+ getSceneAabb()\l}" alt="" coords="3526,1762,3730,2030"/>
+<area shape="rect" id="node26" href="$classRa_1_1Engine_1_1ShaderProgramManager.html" title="Manage the set of shaders used by Radium Engine for rendering. " alt="" coords="2726,1799,3005,1993"/>
+<area shape="rect" id="node28" href="$classRa_1_1Engine_1_1Mesh.html" title="A class representing an openGL general mesh to be displayed. " alt="" coords="1936,984,2083,1399"/>
+<area shape="rect" id="node41" href="$classRa_1_1Engine_1_1Camera.html" title="A Camera is an Engine Component storing a Camera object. " alt="" coords="479,852,647,1531"/>
+<area shape="rect" id="node38" href="$classQObject.html" title="{QObject\n||}" alt="" coords="381,1153,454,1230"/>
+<area shape="rect" id="node45" href="$classRa_1_1Gui_1_1GizmoManager.html" title="This class interfaces the gizmos with the ui commands. " alt="" coords="309,2452,526,2676"/>
+<area shape="rect" id="node39" href="$classRa_1_1Engine_1_1Light.html" title="Light base classe for rendering. " alt="" coords="671,1087,857,1296"/>
+<area shape="rect" id="node47" href="$structRa_1_1Engine_1_1ItemEntry.html" title="This represent a handle for an entity, component or render object. " alt="" coords="190,1094,357,1289"/>
+<area shape="rect" id="node46" href="$classRa_1_1GuiBase_1_1TransformEditor.html" title="{Ra::GuiBase::TransformEditor\n||+ TransformEditor()\l+ ~TransformEditor()\l+ setEditable()\l+ updateValues()\l# getTransform()\l# setTransform()\l# canEdit()\l# getWorldTransform()\l}" alt="" coords="170,1806,377,1986"/>
+<area shape="rect" id="node44" href="$classRa_1_1Gui_1_1PickingManager.html" title="{Ra::Gui::PickingManager\n||+ PickingManager()\l+ ~PickingManager()\l+ setCurrent()\l+ getCurrent()\l+ clear()\l}" alt="" coords="2903,2496,3078,2632"/>
+<area shape="rect" id="node48" href="$classRa_1_1GuiBase_1_1SelectionManager.html" title="{Ra::GuiBase::SelectionManager\n||+ SelectionManager()\l+ isSelected()\l+ selectedEntries()\l+ currentItem()\l+ select()\l+ setCurrentEntry()\l# itemModel()\l# onModelRebuilt()\l# printSelection()\l}" alt="" coords="2903,3113,3126,3307"/>
+<area shape="rect" id="node49" href="$classQItemSelectionModel.html" title="{QItemSelectionModel\n||}" alt="" coords="3102,2525,3261,2603"/>
+<area shape="rect" id="node50" href="$classRa_1_1Engine_1_1RadiumEngine.html" title="Engine main class : Manage all the systems and managers that are used by the engine module..." alt="" coords="3150,3054,3359,3366"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/IO/AssimpLoader/AssimpAnimationDataLoader.cpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/IO/AssimpLoader/AssimpAnimationDataLoader.cpp">
+<area shape="rect" id="node2" href="$AssimpAnimationDataLoader_8hpp.html" title="IO/AssimpLoader/AssimpAnimation\lDataLoader.hpp" alt="" coords="5,288,252,329"/>
+<area shape="rect" id="node19" href="$AnimationData_8hpp.html" title="Core/File/AnimationData.hpp" alt="" coords="779,124,983,151"/>
+<area shape="rect" id="node38" href="$Log_8hpp.html" title="Core/Log/Log.hpp" alt="" coords="511,295,645,322"/>
+<area shape="rect" id="node42" href="$KeyRotation_8hpp.html" title="Core/File/KeyFrame\l/KeyRotation.hpp" alt="" coords="1187,199,1329,240"/>
+<area shape="rect" id="node43" href="$KeyScaling_8hpp.html" title="Core/File/KeyFrame\l/KeyScaling.hpp" alt="" coords="1353,199,1496,240"/>
+<area shape="rect" id="node44" href="$KeyTranslation_8hpp.html" title="Core/File/KeyFrame\l/KeyTranslation.hpp" alt="" coords="1521,199,1665,240"/>
+<area shape="rect" id="node45" href="$AssimpWrapper_8hpp.html" title="IO/AssimpLoader/AssimpWrapper.hpp" alt="" coords="1831,124,2091,151"/>
+<area shape="rect" id="node3" href="$DataLoader_8hpp.html" title="Core/File/DataLoader.hpp" alt="" coords="68,385,251,411"/>
+<area shape="rect" id="node6" href="$AnimationTime_8hpp.html" title="Core/File/KeyFrame\l/AnimationTime.hpp" alt="" coords="1117,377,1268,419"/>
+<area shape="rect" id="node15" href="$RaIO_8hpp.html" title="IO/RaIO.hpp" alt="" coords="481,556,576,583"/>
+<area shape="rect" id="node7" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="637,631,797,657"/>
+<area shape="rect" id="node21" href="$AssetData_8hpp.html" title="Core/File/AssetData.hpp" alt="" coords="919,385,1093,411"/>
+<area shape="rect" id="node22" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="841,556,971,583"/>
+<area shape="rect" id="node23" href="$KeyTransform_8hpp.html" title="Core/File/KeyFrame\l/KeyTransform.hpp" alt="" coords="1020,199,1163,240"/>
+<area shape="rect" id="node37" href="$AnimationData_8inl.html" title="Core/File/AnimationData.inl" alt="" coords="598,206,793,233"/>
+<area shape="rect" id="node24" href="$Interpolation_8hpp.html" title="Core/File/KeyFrame\l/Interpolation.hpp" alt="" coords="1519,288,1661,329"/>
+<area shape="rect" id="node33" href="$KeyFrame_8hpp.html" title="Core/File/KeyFrame\l/KeyFrame.hpp" alt="" coords="1352,288,1495,329"/>
+<area shape="rect" id="node25" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="1650,385,1858,411"/>
+<area shape="rect" id="node31" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="1385,474,1537,501"/>
+<area shape="rect" id="node32" href="$LinearAlgebra_8inl.html" title="Core/Math/LinearAlgebra.inl" alt="" coords="1779,474,1977,501"/>
+<area shape="rect" id="node35" href="$AlignedAllocator_8hpp.html" title="Core/Containers/AlignedAllocator.hpp" alt="" coords="1293,385,1551,411"/>
+<area shape="rect" id="node40" href="$StringUtils_8hpp.html" title="Core/String/StringUtils.hpp" alt="" coords="499,385,691,411"/>
+</map>

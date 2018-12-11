@@ -1,0 +1,8 @@
+<map id="Ra::Gui::Viewer::grabFrame" name="Ra::Gui::Viewer::grabFrame">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Renderer.html#a584cc744ee0f15884f5f853209c055cd" title="Ra::Engine::Renderer\l::grabFrame" alt="" coords="248,104,403,145"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Core_1_1StringUtils.html#a30480ab8fa5ba3ac2824bf91bcddf7bf" title="Ra::Core::StringUtils\l::getFileExt" alt="" coords="250,169,401,211"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Renderer.html#a8a68ecdea83da2148ef303176bcffac8" title="Get the currently displayed texture. " alt="" coords="451,5,605,47"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Texture.html#a9ba7fb88d2b2b023ad5e68f2d4f3f1bb" title="Bind the texture to enable its use in a shader. " alt="" coords="457,71,599,112"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1Texture.html#a5fb64b92e7a9025f6ad315f84eba2dca" title="Ra::Engine::Texture\l::width" alt="" coords="457,136,599,177"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1Texture.html#a42c27099c6aa960f13485a4477517296" title="Ra::Engine::Texture\l::height" alt="" coords="457,201,599,243"/>
+</map>

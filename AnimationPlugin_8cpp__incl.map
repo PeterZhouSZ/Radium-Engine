@@ -1,0 +1,24 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/Plugins/Animation/src/AnimationPlugin.cpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/Plugins/Animation/src/AnimationPlugin.cpp">
+<area shape="rect" id="node2" href="$AnimationPlugin_8hpp.html" title="AnimationPlugin.hpp" alt="" coords="366,124,519,151"/>
+<area shape="rect" id="node15" href="$AnimationUI_8h.html" title="UI/AnimationUI.h" alt="" coords="582,206,711,233"/>
+<area shape="rect" id="node22" href="$AnimationSystem_8hpp.html" title="AnimationSystem.hpp" alt="" coords="1090,124,1254,151"/>
+<area shape="rect" id="node34" href="$SignalManager_8hpp.html" title="Engine/Managers/SignalManager\l/SignalManager.hpp" alt="" coords="973,288,1203,329"/>
+<area shape="rect" id="node37" href="$RadiumEngine_8hpp.html" title="Engine/RadiumEngine.hpp" alt="" coords="1503,377,1691,404"/>
+<area shape="rect" id="node41" href="$SelectionManager_8hpp.html" title="GuiBase/SelectionManager\l/SelectionManager.hpp" alt="" coords="1480,199,1675,240"/>
+<area shape="rect" id="node3" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="793,601,953,628"/>
+<area shape="rect" id="node9" href="$RadiumPluginInterface_8hpp.html" title="PluginBase/RadiumPluginInterface.hpp" alt="" coords="45,206,312,233"/>
+<area shape="rect" id="node17" href="$AnimationPluginMacros_8hpp.html" title="AnimationPluginMacros.hpp" alt="" coords="735,206,934,233"/>
+<area shape="rect" id="node23" href="$TimedSystem_8hpp.html" title="Engine/System/TimedSystem.hpp" alt="" coords="958,206,1197,233"/>
+<area shape="rect" id="node28" href="$ItemEntry_8hpp.html" title="Engine/ItemModel/ItemEntry.hpp" alt="" coords="1251,377,1479,404"/>
+<area shape="rect" id="node24" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="795,452,951,479"/>
+<area shape="rect" id="node25" href="$CouplingSystem_8hpp.html" title="Engine/System/CouplingSystem.hpp" alt="" coords="534,295,789,322"/>
+<area shape="rect" id="node26" href="$System_8hpp.html" title="Engine/System/System.hpp" alt="" coords="630,377,829,404"/>
+<area shape="rect" id="node29" href="$Index_8hpp.html" title="Core/Index/Index.hpp" alt="" coords="1219,452,1375,479"/>
+<area shape="rect" id="node33" href="$ItemEntry_8inl.html" title="Engine/ItemModel/ItemEntry.inl" alt="" coords="976,452,1195,479"/>
+<area shape="rect" id="node31" href="$Index_8inl.html" title="Core/Index/Index.inl" alt="" coords="1156,527,1303,553"/>
+<area shape="rect" id="node38" href="$Singleton_8hpp.html" title="Core/Utils/Singleton.hpp" alt="" coords="1557,452,1733,479"/>
+<area shape="rect" id="node39" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="1521,527,1652,553"/>
+<area shape="rect" id="node42" href="$RaGuiBase_8hpp.html" title="GuiBase/RaGuiBase.hpp" alt="" coords="2036,452,2212,479"/>
+<area shape="rect" id="node43" href="$EntityTreeModel_8hpp.html" title="GuiBase/TreeModel/Entity\lTreeModel.hpp" alt="" coords="1615,288,1798,329"/>
+<area shape="rect" id="node44" href="$TreeModel_8hpp.html" title="GuiBase/TreeModel/TreeModel.hpp" alt="" coords="1715,377,1954,404"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Ra::Engine::LightManager" name="Ra::Engine::LightManager">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1System.html" title="Systems are responsible of updating a specific subset of the components of each entity. " alt="" coords="156,587,365,767"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="199,197,325,274"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="355,197,510,274"/>
+<area shape="rect" id="node8" href="$classRa_1_1Engine_1_1LightStorage.html" title="Interface providing functions to access and store lights in an implementation&#45;defined way..." alt="" coords="570,145,749,325"/>
+</map>

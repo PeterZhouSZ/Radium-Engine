@@ -1,0 +1,13 @@
+<map id="Ra::GuiBase::EngineTreeItem" name="Ra::GuiBase::EngineTreeItem">
+<area shape="rect" id="node2" href="$classRa_1_1GuiBase_1_1TreeItem.html" title="Base class for element of the tree representation. " alt="" coords="5,299,168,479"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="293,351,448,428"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="473,351,599,428"/>
+<area shape="rect" id="node8" href="$structRa_1_1Engine_1_1ItemEntry.html" title="This represent a handle for an entity, component or render object. " alt="" coords="1110,1644,1277,1839"/>
+<area shape="rect" id="node9" href="$classRa_1_1Engine_1_1Component.html" title="A component is an element that can be updated by a system. " alt="" coords="935,1284,1150,1581"/>
+<area shape="rect" id="node11" href="$classRa_1_1Core_1_1Index.html" title="{Ra::Core::Index\n||+ Index()\l+ Index()\l+ isValid()\l+ isInvalid()\l+ setInvalid()\l+ getValue()\l+ setValue()\l+ operator int()\l+ operator=()\l+ operator++()\l+ operator&#45;&#45;()\l+ operator+()\l+ operator+()\l+ operator&#45;()\l+ operator&#45;()\l+ operator==()\l+ operator==()\l+ operator!=()\l+ operator!=()\l+ operator\&lt;()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;()\l+ operator\&gt;=()\l+ operator\&gt;=()\l+ Invalid()\l+ Max()\l}" alt="" coords="1057,145,1181,633"/>
+<area shape="rect" id="node13" href="$classRa_1_1Engine_1_1System.html" title="Systems are responsible of updating a specific subset of the components of each entity. " alt="" coords="785,968,994,1148"/>
+<area shape="rect" id="node16" href="$classRa_1_1Engine_1_1Entity.html" title="An entity is an scene element. It ties together components with a transform. " alt="" coords="1192,895,1379,1221"/>
+<area shape="rect" id="node17" href="$classRa_1_1Core_1_1IndexedObject.html" title="{Ra::Core::IndexedObject\n||+ IndexedObject()\l+ IndexedObject()\l+ ~IndexedObject()\l}" alt="" coords="1214,725,1389,832"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="663,1019,750,1097"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="629,733,766,825"/>
+</map>

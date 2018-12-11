@@ -1,0 +1,4 @@
+<map id="Ra::Gui::TrackballCamera::setTrackballCenter" name="Ra::Gui::TrackballCamera::setTrackballCenter">
+<area shape="rect" id="node2" href="$classRa_1_1Gui_1_1TrackballCamera.html#a1f4216d79cee852ec5653a1a11fe4155" title="Update the polar coordinates of the Camera w.r.t. the trackball center. " alt="" coords="233,5,413,47"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Camera.html#a724a052e94817af7e602129467c8696f" title="Return the position. " alt="" coords="461,5,609,47"/>
+</map>

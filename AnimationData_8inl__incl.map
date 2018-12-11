@@ -1,0 +1,17 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/Core/File/AnimationData.inl" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/Core/File/AnimationData.inl">
+<area shape="rect" id="node2" href="$AnimationData_8hpp.html" title="Core/File/AnimationData.hpp" alt="" coords="1699,109,1903,136"/>
+<area shape="rect" id="node36" href="$Log_8hpp.html" title="Core/Log/Log.hpp" alt="" coords="2227,109,2361,136"/>
+<area shape="rect" id="node5" href="$AssetData_8hpp.html" title="Core/File/AssetData.hpp" alt="" coords="1713,191,1888,218"/>
+<area shape="rect" id="node6" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="1705,541,1835,568"/>
+<area shape="rect" id="node13" href="$AnimationTime_8hpp.html" title="Core/File/KeyFrame\l/AnimationTime.hpp" alt="" coords="5,363,156,404"/>
+<area shape="rect" id="node16" href="$KeyTransform_8hpp.html" title="Core/File/KeyFrame\l/KeyTransform.hpp" alt="" coords="1117,184,1260,225"/>
+<area shape="rect" id="node7" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="1690,616,1850,643"/>
+<area shape="rect" id="node17" href="$Interpolation_8hpp.html" title="Core/File/KeyFrame\l/Interpolation.hpp" alt="" coords="1117,273,1260,315"/>
+<area shape="rect" id="node28" href="$KeyFrame_8hpp.html" title="Core/File/KeyFrame\l/KeyFrame.hpp" alt="" coords="923,273,1065,315"/>
+<area shape="rect" id="node18" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="1085,370,1293,397"/>
+<area shape="rect" id="node24" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="537,459,689,486"/>
+<area shape="rect" id="node27" href="$LinearAlgebra_8inl.html" title="Core/Math/LinearAlgebra.inl" alt="" coords="1089,459,1288,486"/>
+<area shape="rect" id="node26" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="541,541,684,568"/>
+<area shape="rect" id="node31" href="$AlignedAllocator_8hpp.html" title="Core/Containers/AlignedAllocator.hpp" alt="" coords="274,370,533,397"/>
+<area shape="rect" id="node38" href="$StringUtils_8hpp.html" title="Core/String/StringUtils.hpp" alt="" coords="2065,191,2257,218"/>
+</map>

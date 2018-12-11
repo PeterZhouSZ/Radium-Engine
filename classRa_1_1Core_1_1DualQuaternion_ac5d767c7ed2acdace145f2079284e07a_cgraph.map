@@ -1,0 +1,21 @@
+<map id="Ra::Core::DualQuaternion::DualQuaternion" name="Ra::Core::DualQuaternion::DualQuaternion">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1DualQuaternion.html#a5285f129da6356e120b2f446e0917dc0" title="Construct an uninitialized dual quaternion. " alt="" coords="469,397,653,439"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1DualQuaternion.html#a993260666048f4778119342bb5e0fa92" title="Ra::Core::DualQuaternion\l::operator=" alt="" coords="237,71,421,112"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1DualQuaternion.html#ac2d7f8b462fc0c89cefce88759add47c" title="Getters and setters. " alt="" coords="237,136,421,177"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1DualQuaternion.html#a2ba91e34be870e04340971273f60de95" title="Ra::Core::DualQuaternion\l::setQ0" alt="" coords="237,201,421,243"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1DualQuaternion.html#aaeab2ae42885a7437dcc9eb99f2daaaa" title="Ra::Core::DualQuaternion\l::getQe" alt="" coords="237,267,421,308"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1DualQuaternion.html#a823e160cb0fc21db648a093be7e2c7f9" title="Ra::Core::DualQuaternion\l::setQe" alt="" coords="237,332,421,373"/>
+<area shape="rect" id="node8" href="$classRa_1_1Core_1_1DualQuaternion.html#a3c9c04535e44bf0b44b4d83fa778d09d" title="Operators. " alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node9" href="$classRa_1_1Core_1_1DualQuaternion.html#a430bb656bbc6f621e153d5cb7d8275b9" title="Ra::Core::DualQuaternion\l::operator*" alt="" coords="237,397,421,439"/>
+<area shape="rect" id="node10" href="$classRa_1_1Core_1_1DualQuaternion.html#aac0a627396d0ec0bb85c1ab6f96c91aa" title="Ra::Core::DualQuaternion\l::operator+=" alt="" coords="237,515,421,556"/>
+<area shape="rect" id="node11" href="$classRa_1_1Core_1_1DualQuaternion.html#ab5dee3d7ccd413488e2ebed4c3df1ccd" title="Ra::Core::DualQuaternion\l::operator*=" alt="" coords="237,580,421,621"/>
+<area shape="rect" id="node12" href="$classRa_1_1Core_1_1DualQuaternion.html#a0e9fbf03265fb5dd5a4c390503a1cb36" title="Other methods. " alt="" coords="237,645,421,687"/>
+<area shape="rect" id="node13" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="250,711,409,738"/>
+<area shape="rect" id="node14" href="$classRa_1_1Core_1_1DualQuaternion.html#acd2e91c60ef27b917e3d55093fdd1bb7" title="Return the corresponding rigid transform. Assume a unit dual quaternion. " alt="" coords="469,755,653,796"/>
+<area shape="rect" id="node16" href="$classRa_1_1Core_1_1DualQuaternion.html#aac90a90e6f101b43c2dc8e304f1ff186" title="Normalize the quaternion with the dual&#45;number norm (divides q0 and qe by q0&#39;s norm). " alt="" coords="237,813,421,855"/>
+<area shape="rect" id="node18" href="$classRa_1_1Core_1_1DualQuaternion.html#a2586ba153d1746aca518ac05c3a14d1f" title="Apply the transform represented by the dual quaternion to given vector. " alt="" coords="237,931,421,972"/>
+<area shape="rect" id="node19" href="$classRa_1_1Core_1_1DualQuaternion.html#ac7b44ebcec6435ede7183b59585e61bf" title="Apply only the translational part of the dual quaternion to the given vector. " alt="" coords="469,872,653,913"/>
+<area shape="rect" id="node20" href="$classRa_1_1Core_1_1DualQuaternion.html#adeb06a28fea639484f58da9a8a9ef217" title="Apply only the rotational part of the dual quaternion to the given vector. " alt="" coords="469,989,653,1031"/>
+<area shape="rect" id="node15" href="$namespaceRa_1_1Core_1_1Math.html#af36b0dc40414af4cc329f037d428dada" title="Returns true if |a &#45;b| &lt; eps. " alt="" coords="701,931,892,972"/>
+<area shape="rect" id="node17" href="$namespaceOpenMesh.html#a8205f789ce08919bc11c58383574596c" title="OpenMesh::norm" alt="" coords="495,821,627,847"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Ra::Gui::Viewer::getPickingManager" name="Ra::Gui::Viewer::getPickingManager">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Renderer.html#a3166160850c466595fe48a74116bc116" title="Lock rendering. " alt="" coords="244,5,399,47"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Renderer.html#aa1773ee0f741df643e10d21d968fbcc3" title="Unlock the rendering. " alt="" coords="244,71,399,112"/>
+</map>

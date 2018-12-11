@@ -1,0 +1,10 @@
+<map id="Ra::Engine::GeometryComponent" name="Ra::Engine::GeometryComponent">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Component.html" title="A component is an element that can be updated by a system. " alt="" coords="455,1284,669,1581"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Index.html" title="{Ra::Core::Index\n||+ Index()\l+ Index()\l+ isValid()\l+ isInvalid()\l+ setInvalid()\l+ getValue()\l+ setValue()\l+ operator int()\l+ operator=()\l+ operator++()\l+ operator&#45;&#45;()\l+ operator+()\l+ operator+()\l+ operator&#45;()\l+ operator&#45;()\l+ operator==()\l+ operator==()\l+ operator!=()\l+ operator!=()\l+ operator\&lt;()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;()\l+ operator\&gt;=()\l+ operator\&gt;=()\l+ Invalid()\l+ Max()\l}" alt="" coords="5,145,129,633"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="200,351,327,428"/>
+<area shape="rect" id="node8" href="$classRa_1_1Engine_1_1System.html" title="Systems are responsible of updating a specific subset of the components of each entity. " alt="" coords="345,968,555,1148"/>
+<area shape="rect" id="node11" href="$classRa_1_1Engine_1_1Entity.html" title="An entity is an scene element. It ties together components with a transform. " alt="" coords="581,895,767,1221"/>
+<area shape="rect" id="node12" href="$classRa_1_1Core_1_1IndexedObject.html" title="{Ra::Core::IndexedObject\n||+ IndexedObject()\l+ IndexedObject()\l+ ~IndexedObject()\l}" alt="" coords="589,725,764,832"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="803,1019,889,1097"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="788,733,925,825"/>
+</map>

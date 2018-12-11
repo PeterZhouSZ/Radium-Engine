@@ -1,0 +1,7 @@
+<map id="Ra::Engine::DefaultCameraManager" name="Ra::Engine::DefaultCameraManager">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1CameraManager.html" title="Interface providing functions to manage a group or type of Cameras in a specific way. " alt="" coords="271,801,480,1040"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1System.html" title="Systems are responsible of updating a specific subset of the components of each entity. " alt="" coords="156,572,365,752"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="199,189,325,267"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="355,189,510,267"/>
+<area shape="rect" id="node9" href="$classRa_1_1Engine_1_1CameraStorage.html" title="Interface providing functions to access and store cameras in an implementation&#45;defined way..." alt="" coords="580,145,779,311"/>
+</map>

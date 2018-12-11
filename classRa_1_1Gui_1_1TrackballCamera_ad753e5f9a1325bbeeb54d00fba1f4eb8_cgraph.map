@@ -1,0 +1,20 @@
+<map id="Ra::Gui::TrackballCamera::handleMouseMoveEvent" name="Ra::Gui::TrackballCamera::handleMouseMoveEvent">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Camera.html#acc1bb27e2afe38147548184324ceaa9e" title="Return the width of the viewport. " alt="" coords="255,53,403,95"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Camera.html#af9756bbd9e75f5b762a42f3e9e275af8" title="Return the height of the viewport. " alt="" coords="255,119,403,160"/>
+<area shape="rect" id="node4" href="$classRa_1_1Gui_1_1TrackballCamera.html#a572d505f792a74788e5e987e944c565b" title="Ra::Gui::TrackballCamera\l::handleCameraRotate" alt="" coords="239,249,419,291"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1Camera.html#a724a052e94817af7e602129467c8696f" title="Return the position. " alt="" coords="691,348,839,389"/>
+<area shape="rect" id="node12" href="$classRa_1_1Gui_1_1TrackballCamera.html#a4984e61aaa39d41e4f9d67d0e0d2d011" title="Ra::Gui::TrackballCamera\l::handleCameraPan" alt="" coords="239,184,419,225"/>
+<area shape="rect" id="node14" href="$classRa_1_1Gui_1_1TrackballCamera.html#a7094270e6cee03243a5a43a2a8614446" title="Ra::Gui::TrackballCamera\l::handleCameraZoom" alt="" coords="239,453,419,495"/>
+<area shape="rect" id="node17" href="$classRa_1_1Engine_1_1Light.html#a38e2fb0ea040f4ebfb83c153246f0d0a" title="Set the position of the light source. " alt="" coords="261,519,397,560"/>
+<area shape="rect" id="node18" href="$classRa_1_1Engine_1_1Light.html#ad38532daa0a387eaa85526d94c794618" title="set the direction of lighting " alt="" coords="261,584,397,625"/>
+<area shape="rect" id="node19" href="$classRa_1_1Engine_1_1Camera.html#a23be7aa714c0e9c2a9429dfc9ef2c53a" title="Return the direction the camera is looking at. " alt="" coords="255,649,403,691"/>
+<area shape="rect" id="node6" href="$namespaceOpenMesh.html#a8205f789ce08919bc11c58383574596c" title="OpenMesh::norm" alt="" coords="480,305,612,331"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Core_1_1Vector.html#a42d87f3bd0658bac532d72f0ec528827" title="Get the cosine of the angle between two vectors. " alt="" coords="469,254,623,281"/>
+<area shape="rect" id="node8" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="467,137,625,163"/>
+<area shape="rect" id="node9" href="$classRa_1_1Engine_1_1Camera.html#af453374420a795f76a224bd795f8ff5e" title="Ra::Engine::Camera\l::getRightVector" alt="" coords="472,71,620,112"/>
+<area shape="rect" id="node10" href="$classRa_1_1Engine_1_1Camera.html#a7a2c1c84e3063c6c3f09d490477abb0f" title="Apply the local transformation &#39;T&#39; to the camera. " alt="" coords="472,188,620,229"/>
+<area shape="rect" id="node11" href="$classRa_1_1Engine_1_1RenderObject.html#a2d6a1bc2b7646fe0912035a2ece24864" title="Ra::Engine::RenderObject\l::setLocalTransform" alt="" coords="673,188,856,229"/>
+<area shape="rect" id="node13" href="$classRa_1_1Engine_1_1Camera.html#adfc7c573c5cedb70aadd8afd8274253b" title="Return the up vector. " alt="" coords="472,5,620,47"/>
+<area shape="rect" id="node15" href="$namespaceRa_1_1Core_1_1Math.html#a90f0fe9079f5bb86c721ea4b61738470" title="Returns the sign of any numeric type as { &#45;1, 0, 1}. " alt="" coords="471,461,621,487"/>
+<area shape="rect" id="node16" href="$namespaceRa_1_1Core_1_1Math.html#ae4e681e0738fe7e5bfd028c6270b597a" title="Ra::Core::Math::signum" alt="" coords="679,461,850,487"/>
+</map>

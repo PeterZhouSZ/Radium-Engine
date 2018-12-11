@@ -1,0 +1,5 @@
+<map id="Ra::Core::Geometry::VariationalShapeApproximationBase::geometry_partitioning" name="Ra::Core::Geometry::VariationalShapeApproximationBase::geometry_partitioning">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="320,5,479,32"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Geometry_1_1VariationalShapeApproximationBase.html#a3c71d31a3c51e485574a9a3d76f39458" title="Computes the energy function for the given triangle and the given Proxy. " alt="" coords="563,75,793,131"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Geometry_1_1VariationalShapeApproximationBase.html#a1c461b56ce2749533d2fbacb2ae60fa6" title="Add the neighbors of T to the priority queue. " alt="" coords="284,107,515,163"/>
+</map>

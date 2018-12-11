@@ -1,0 +1,6 @@
+<map id="Ra::Core::print" name="Ra::Core::print">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1Vector.html#af564521564244ea832d4b66d9cff6fcc" title="Component&#45;wise floor() function on a floating&#45;point vector. " alt="" coords="172,5,333,32"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1Vector.html#a6469b383fbae679e862bb7b647bc9a42" title="Component&#45;wise ceil() function on a floating&#45;point vector. " alt="" coords="175,56,330,83"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Vector.html#a9ee859e471c539559bec21b69ca4da7b" title="Component&#45;wise trunc() function on a floating&#45;point vector. " alt="" coords="169,107,336,133"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Vector.html#a116499d254c6c8bab27bb6e3cdf22f90" title="Component&#45;wise clamp() function on a floating&#45;point vector. " alt="" coords="167,157,339,184"/>
+</map>
